@@ -1,20 +1,21 @@
 {
-    "name": "epfl-testApp",
-    "version": "1.0.0",
-    "description": "HTTP NTLM authentication",
-    "main": "server.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "node server.js"
-    },
-    "author": "Mauricio oporto",
-    "license": "ISC",
-    "dependencies": {
-        "body-parser": "^1.14.1",
-        "express": "^4.13.3",
-        "httpntlm": "^1.6.1",
-        "method-override": "^2.3.5",
-        "mongoose": "^4.2.6",
-        "morgan": "^1.6.1"
-    }
+  "name": "epfl-testApp",
+  "version": "1.0.0",
+  "description": "HTTP NTLM authentication",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Mauricio oporto",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "express-ntlm": "^2.1.5",
+    "httpntlm": "^1.6.1",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.2.6",
+    "morgan": "^1.6.1"
+  }
 }

@@ -2,6 +2,7 @@
 var http = require('http');
 var fs = require('fs');
 var express = require('express');
+var ntlm = require('express-ntlm');
 var app = express(); // create our app with express
 var port = process.env.PORT || 8000; // set the port
 var morgan = require('morgan'); // log every request to the console
@@ -24,8 +25,6 @@ app.use(bodyParser.json({
 })); // parse application/vnd.api+json as json
 app.use(methodOverride('X-HTTP-Method-Override')); // override with the X-HTTP-Method-Override header in the request
 
-//app.use(session({ secret: 'sampleSecretSession', resave: true, saveUninitialized: true }));
-
 // Cross Domain ================================================================
 app.use(function(request, response, next) {
     response.header('Access-Control-Allow-Credentials', true);
@@ -35,11 +34,28 @@ app.use(function(request, response, next) {
     next();
 });
 
+// HTTP NTLM express.js ========================================================
+app.use(ntlm({
+    debug: function() {
+        var args = Array.prototype.slice.apply(arguments);
+        console.log.apply(null, args);
+    },
+    username:"MYUSER",
+    password: "MYPASS",
+    domain: 'MYDOMAIN',
+    Workstation: "MYWORKSTATION",
+    domaincontroller: "https://cmisrvm1.epfl.ch/cmi/v1.5/copernic_2/#",
+}));
+
+app.all('/', function(request, response) {
+    response.end(JSON.stringify(request.ntlm)); // {"DomainName":"MYDOMAIN","UserName":"MYUSER","Workstation":"MYWORKSTATION"}
+});
+
 // Server ======================================================================
 var server = http.Server(app);
 
-// HTTP NTLM ===================================================================
-require('./config/login');
+// HTTP NTLM node.js ===========================================================
+//require('./config/login');
 
 process.on('SIGINT', function() {
     console.log("\nStopping...");
