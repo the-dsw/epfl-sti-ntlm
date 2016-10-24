@@ -1,14 +1,10 @@
 // set up ======================================================================
 var http = require('http');
-var httpntlm = require('httpntlm'); // HTTP authentication NTLM
 var fs = require('fs');
-var archiver = require('archiver'); // compression ZIP
-var csv = require('csv'); // CSV files
-var session = require('express-session');
 var express = require('express');
-var app = exports.app = express(); // create our app with express
+var app = express(); // create our app with express
 var port = process.env.PORT || 8000; // set the port
-var morgan = require('morgan');
+var morgan = require('morgan'); // log every request to the console
 var bodyParser = require('body-parser');
 var methodOverride = require('method-override');
 
@@ -42,10 +38,8 @@ app.use(function(request, response, next) {
 // Server ======================================================================
 var server = http.Server(app);
 
-// Routes ======================================================================
-//require('./app/routes')(app);
-
-//require('./app/email/email')(app);
+// HTTP NTLM ===================================================================
+require('./config/login');
 
 process.on('SIGINT', function() {
     console.log("\nStopping...");
