@@ -1,6 +1,9 @@
 // set up ======================================================================
 var http			       = require('http');
-var httpntlm         = require('httpntlm');               // authentification NTLM
+var httpntlm         = require('httpntlm');               // authentication NTLM
+var fs               = require('fs');
+var archiver         = require('archiver');              // compression ZIP
+var csv              = require('csv');                   // csv files
 var session	    	   = require('express-session');
 var express			     = require('express');
 var app				       = exports.app = express();					  // create our app with express
