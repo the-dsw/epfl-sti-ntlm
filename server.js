@@ -40,7 +40,7 @@ app.use(ntlm({
         var args = Array.prototype.slice.apply(arguments);
         console.log.apply(null, args);
     },
-    username:"MYUSER",
+    username:"intranet/",
     password: "MYPASS",
     domain: 'MYDOMAIN',
     Workstation: "MYWORKSTATION",
