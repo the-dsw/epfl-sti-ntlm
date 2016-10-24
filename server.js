@@ -1,12 +1,13 @@
 // set up ======================================================================
-var http			= require('http');
-var session	    	= require('express-session');
-var express			= require('express');
-var app				= exports.app = express();					// create our app w/ express
-var port			= process.env.PORT || 8000;					// set the port
-var morgan			= require('morgan');
-var bodyParser		= require('body-parser');
-var methodOverride	= require('method-override');
+var http			       = require('http');
+var httpntlm         = require('httpntlm');               // authentification NTLM
+var session	    	   = require('express-session');
+var express			     = require('express');
+var app				       = exports.app = express();					  // create our app with express
+var port			       = process.env.PORT || 8000;					// set the port
+var morgan			     = require('morgan');
+var bodyParser		   = require('body-parser');
+var methodOverride	 = require('method-override');
 
 // Mongoose ====================================================================
 require('./config/database');
@@ -32,7 +33,7 @@ app.use(function(request, response, next) {
 });
 
 // Serveur ====================================================================
-var server = http.Server(app);
+var server           = http.Server(app);
 
 // Routes ======================================================================
 //require('./app/routes')(app);
