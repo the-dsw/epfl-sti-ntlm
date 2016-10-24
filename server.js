@@ -35,20 +35,27 @@ app.use(function(request, response, next) {
 });
 
 // HTTP NTLM express.js ========================================================
-app.use(ntlm({
-    debug: function() {
-        var args = Array.prototype.slice.apply(arguments);
-        console.log.apply(null, args);
-    },
-    username:"intranet/",
-    password: "MYPASS",
-    domain: 'MYDOMAIN',
-    Workstation: "MYWORKSTATION",
-    domaincontroller: "https://cmisrvm1.epfl.ch/cmi/v1.5/copernic_2/#",
-}));
+app.post('/frmAuth', function (req, res) {
+    var username = req.body.username;
+    var password = req.body.password;
+    //res.render('some-file', { name: req.body.name });
+    app.use(ntlm({
+        debug: function() {
+            var args = Array.prototype.slice.apply(arguments);
+            console.log.apply(null, args);
+        },
+        username:"intranet/" + username,
+        password: password,
+        domain: 'MYDOMAIN',
+        Workstation: "MYWORKSTATION",
+        domaincontroller: "https://cmisrvm1.epfl.ch/cmi/v1.5/copernic_2/#",
+    }));
 
-app.all('/', function(request, response) {
-    response.end(JSON.stringify(request.ntlm)); // {"DomainName":"MYDOMAIN","UserName":"MYUSER","Workstation":"MYWORKSTATION"}
+    app.all('/', function(request, response) {
+        response.end(JSON.stringify(request.ntlm)); // {"DomainName":"MYDOMAIN","UserName":"MYUSER","Workstation":"MYWORKSTATION"}
+    });
+
+    res.send(username + ' ' + password); // res.send('200');
 });
 
 // Server ======================================================================
