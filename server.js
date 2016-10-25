@@ -1,21 +1,22 @@
 // set up ======================================================================
 var http = require('http');
 var fs = require('fs');
+var favicon = require('serve-favicon');
 var express = require('express');
 var ntlm = require('express-ntlm');
-var app = express(); // create our app with express
 var port = process.env.PORT || 8000; // set the port
-var morgan = require('morgan'); // log every request to the console
+var logger = require('morgan'); // log every request to the console
 var bodyParser = require('body-parser');
 var methodOverride = require('method-override');
+
+var app = express(); // create our app with express
 
 // Mongoose ====================================================================
 require('./config/database');
 
 // Express =====================================================================
-
 app.use(express.static(__dirname + '/public')); // set the static files location /public/img will be /img for users
-app.use(morgan('dev')); // log every request to the console
+app.use(logger('dev')); // log every request to the console
 app.use(bodyParser.urlencoded({
     'extended': 'true'
 })); // parse application/x-www-form-urlencoded
@@ -30,32 +31,34 @@ app.use(function(request, response, next) {
     response.header('Access-Control-Allow-Credentials', true);
     response.header('Access-Control-Allow-Origin', request.headers.origin);
     response.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE');
-    response.header('Access-Control-Allow-Headers', 'X-ACCESS_TOKEN, Access-Control-Allow-Origin, Authorization, X-Requested-With, X-HTTP-Method-Override, Content-Type, Accept');
+    response.header('Access-Control-Allow-Headers', 'X-ACCESS_TOKEN, Access-Control-Allow-Origin, Authorization, X-Requested-With, X-HTTP-Method-Override, Content-Type, Accept', request.headers.authorization);
     next();
 });
 
+
 // HTTP NTLM express.js ========================================================
-app.post('/frmAuth', function (req, res) {
+app.post('/frmAuth', function (req, res, next) {
+
     var username = req.body.username;
     var password = req.body.password;
-    //res.render('some-file', { name: req.body.name });
+    var url = "";
+    
     app.use(ntlm({
         debug: function() {
             var args = Array.prototype.slice.apply(arguments);
             console.log.apply(null, args);
         },
-        username:"intranet/" + username,
-        password: password,
-        domain: 'MYDOMAIN',
-        Workstation: "MYWORKSTATION",
-        domaincontroller: "https://cmisrvm1.epfl.ch/cmi/v1.5/copernic_2/#",
+        domain: 'intranet',
+
+
     }));
 
-    app.all('/', function(request, response) {
-        response.end(JSON.stringify(request.ntlm)); // {"DomainName":"MYDOMAIN","UserName":"MYUSER","Workstation":"MYWORKSTATION"}
+    app.all('*', function(request, response) {
+      response.end(JSON.stringify(request.ntlm)); // {"DomainName":"MYDOMAIN","UserName":"MYUSER","Workstation":"MYWORKSTATION"}
     });
 
-    res.send(username + ' ' + password); // res.send('200');
+    //res.redirect(url);
+    next();
 });
 
 // Server ======================================================================
