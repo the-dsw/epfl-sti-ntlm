@@ -35,21 +35,19 @@ app.use(function(request, response, next) {
     next();
 });
 
-
 // HTTP NTLM express.js ========================================================
 app.post('/frmAuth', function (req, res, next) {
 
     var username = req.body.username;
     var password = req.body.password;
     var url = "";
-    
+
     app.use(ntlm({
         debug: function() {
             var args = Array.prototype.slice.apply(arguments);
             console.log.apply(null, args);
         },
         domain: 'intranet',
-
 
     }));
 
