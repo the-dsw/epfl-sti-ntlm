@@ -46,7 +46,20 @@ app.post('/frmAuth', function (req, res, next) {
     console.log("request started");
     var post_data = qs.stringify({
       yearmonth: "",
-      labo: ["CMi", "EXT-CERN"],
+      labo: ["CMi","ENAC-IIC-LESO-PB","ENAC-IIE-LGB","EXT-Aleva","EXT-Asulab",
+            "EXT-Axetris","EXT-Bruker","EXT-CERN","EXT-CSEM_T1","EXT-CSEM_T3","EXT-Efficonseil","EXT-EMPA",
+            "EXT-HESGE","EXT-INTEL","EXT-LESS_SA","EXT-LSPR","EXT-Mackinac","EXT-MCH-processing","EXT-Meister-Abrasive",
+            "EXT-Microcrystal","EXT-Morphotonix","EXT-Novagan","EXT-Piemacs","EXT-Rolex","EXT-Samtec","EXT-Sigatec","EXT-SilMach",
+            "EXT-SwissTo12","EXT-UFMG-ICEx","EXT-UNIBE-Phys.","EXT-UNIGE-GAP","EXT-UNIL","IC-IINFCOM-LSI1","SB-CMNT-GE",
+            "SB-IPHYS-GCMP","SB-IPHYS-LASPE","SB-IPHYS-LOEQ","SB-IPHYS-LPMC","SB-IPHYS-LPN","SB-IPHYS-LPQM1","SB-IPHYS-LUMES",
+            "SB-ISIC-LEPA","SB-ISIC-LND","SB-ISIC-LPI","SB-ISIC-LSPM","STI-IBI-BIOS","STI-IBI-CLSE","STI-IBI-LBEN",
+            "STI-IBI-LBNC","STI-IBI-LBNI","STI-IBI-LHTC","STI-IBI-LNE","STI-IEL-GR-KA","STI-IEL-LANES","STI-IEL-LSM","STI-IEL-NANOLAB",
+            "STI-IEL-POWERLAB","STI-IGM-LRESE","STI-IGM-MICROBS","STI-IMT-ESPLAB","STI-IMT-GR-LVT","STI-IMT-GR-QUA",
+            "STI-IMT-LAI","STI-IMT-LAPD","STI-IMT-LMIS1","STI-IMT-LMIS2","STI-IMT-LMIS4","STI-IMT-LMTS",
+            "STI-IMT-LO","STI-IMT-LOB","STI-IMT-LPMAT","STI-IMT-LSBI","STI-IMT-NAM","STI-IMT-OPT","STI-IMX-FIMAP",
+            "STI-IMX-LC","STI-IMX-LMGN","STI-IMX-LMM","STI-IMX-LMOM","STI-IMX-LMSC","STI-IMX-LP","STI-IMX-SMAL",
+            "STI-SCI-CD","STI-SCI-PM","SV-GHI-UPKIN","SV-IBI-LLCB","SV-IBI-UPDEPLA","SV-IBI-UPLUT","SV-IBI-UPNAE","SV-ISREC-CDTSO"
+          ],
       loadcsvbut: 1
     });
     request.post({
