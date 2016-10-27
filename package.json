@@ -12,11 +12,12 @@
   "dependencies": {
     "body-parser": "^1.14.1",
     "express": "^4.13.3",
-    "express-ntlm": "^2.1.5",
     "httpntlm": "^1.6.1",
     "method-override": "^2.3.5",
     "mongoose": "^4.2.6",
     "morgan": "^1.6.1",
+    "qs": "^6.3.0",
+    "request": "^2.76.0",
     "serve-favicon": "^2.3.0"
   }
 }

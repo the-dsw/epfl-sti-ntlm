@@ -1,13 +1,14 @@
 // set up ======================================================================
-var http = require('http');
+var http = require("http"),
+    request = require('request');
 var fs = require('fs');
 var favicon = require('serve-favicon');
 var express = require('express');
-var ntlm = require('express-ntlm');
 var port = process.env.PORT || 8000; // set the port
 var logger = require('morgan'); // log every request to the console
 var bodyParser = require('body-parser');
 var methodOverride = require('method-override');
+var qs = require("qs");
 
 var app = express(); // create our app with express
 
@@ -31,32 +32,38 @@ app.use(function(request, response, next) {
     response.header('Access-Control-Allow-Credentials', true);
     response.header('Access-Control-Allow-Origin', request.headers.origin);
     response.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE');
-    response.header('Access-Control-Allow-Headers', 'X-ACCESS_TOKEN, Access-Control-Allow-Origin, Authorization, X-Requested-With, X-HTTP-Method-Override, Content-Type, Accept', request.headers.authorization);
+    response.header('Access-Control-Allow-Headers', 'X-ACCESS_TOKEN, Access-Control-Allow-Origin, Authorization, X-Requested-With, X-HTTP-Method-Override, Content-Type, Accept');
     next();
 });
 
 // HTTP NTLM express.js ========================================================
 app.post('/frmAuth', function (req, res, next) {
 
-    var username = req.body.username;
+    var username = "intranet/" + req.body.username;
     var password = req.body.password;
-    var url = "";
+    var zipUrl = "https://cmisrvm1.epfl.ch/cmi/v1.5/copernic_2/";
 
-    app.use(ntlm({
-        debug: function() {
-            var args = Array.prototype.slice.apply(arguments);
-            console.log.apply(null, args);
-        },
-        domain: 'intranet',
-
-    }));
-
-    app.all('*', function(request, response) {
-      response.end(JSON.stringify(request.ntlm)); // {"DomainName":"MYDOMAIN","UserName":"MYUSER","Workstation":"MYWORKSTATION"}
+    console.log("request started");
+    var post_data = qs.stringify({
+      yearmonth: "",
+      labo: ["CMi", "EXT-CERN"],
+      loadcsvbut: 1
     });
+    request.post({
+      url: zipUrl,
+      headers: {
+        Authorization: "Basic " + new Buffer(username + ":" + password).toString("base64"),
+        'Content-Type': 'application/x-www-form-urlencoded',
+        'Content-Length': Buffer.byteLength(post_data)
 
-    //res.redirect(url);
-    next();
+      }
+    }, post_data, function (err, result){
+          console.log("request done");
+          if(err) return next(err);
+          console.log(result.headers);
+          console.log(result.body);
+          res.end("Thx bye");
+      });
 });
 
 // Server ======================================================================
