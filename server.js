@@ -1,6 +1,7 @@
 // set up ======================================================================
-var http = require("http"),
-    request = require('request');
+var http = require("http");
+var request = require('request');
+var JSZip = require("jszip");
 var fs = require('fs');
 var favicon = require('serve-favicon');
 var express = require('express');
@@ -9,6 +10,7 @@ var logger = require('morgan'); // log every request to the console
 var bodyParser = require('body-parser');
 var methodOverride = require('method-override');
 var qs = require("qs");
+var FileSaver = require('file-saver');
 
 var app = express(); // create our app with express
 
@@ -42,10 +44,12 @@ app.post('/frmAuth', function (req, res, next) {
     var username = "intranet/" + req.body.username;
     var password = req.body.password;
     var zipUrl = "https://cmisrvm1.epfl.ch/cmi/v1.5/copernic_2/";
+    var yearmonth = document.getElementById("yearmonth").value;
 
     console.log("request started");
     var post_data = qs.stringify({
-      yearmonth: "",
+      yearmonth: yearmonth,
+      displaylabbut:1,
       labo: ["CMi","ENAC-IIC-LESO-PB","ENAC-IIE-LGB","EXT-Aleva","EXT-Asulab",
             "EXT-Axetris","EXT-Bruker","EXT-CERN","EXT-CSEM_T1","EXT-CSEM_T3","EXT-Efficonseil","EXT-EMPA",
             "EXT-HESGE","EXT-INTEL","EXT-LESS_SA","EXT-LSPR","EXT-Mackinac","EXT-MCH-processing","EXT-Meister-Abrasive",
@@ -68,11 +72,30 @@ app.post('/frmAuth', function (req, res, next) {
         Authorization: "Basic " + new Buffer(username + ":" + password).toString("base64"),
         'Content-Type': 'application/x-www-form-urlencoded',
         'Content-Length': Buffer.byteLength(post_data)
+        //'Content-Encoding': 'gzip, deflate, sdch'
 
       }
     }, post_data, function (err, result){
           console.log("request done");
           if(err) return next(err);
+
+          var zip = new JSZip();
+          var copernic = zip.folder("copernic_2");
+
+          copernic.file(post_data);
+
+          zip.generateAsync({type:"blob"}).then(function(content) {
+
+            console.log('content :' + content);
+              // see FileSaver.js
+              FileSaver.saveAs(content, copernic);
+          });
+
+          /*
+          Results in a zip containing
+          copernic_2/
+              datas
+          */
           console.log(result.headers);
           console.log(result.body);
           res.end("Thx bye");
