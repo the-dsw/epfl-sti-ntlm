@@ -66,6 +66,7 @@ app.post('/frmAuth', function (req, res, next) {
           ],
       loadcsvbut: 1
     });
+
     request.post({
       url: zipUrl,
       headers: {
@@ -83,11 +84,12 @@ app.post('/frmAuth', function (req, res, next) {
           var zip = new JSZip();
           var copernic = zip.folder("copernic_2");
 
-          copernic.file(post_data);
           console.log(copernic.file(post_data));
+          copernic.file(post_data);
+
 
           zip.generateAsync({type:"blob"}).then(function(content) {
-            console.log('content :' + content);
+            console.log("generate zip");
               // see FileSaver.js
               FileSaver.saveAs(content, copernic);
           });
@@ -97,8 +99,8 @@ app.post('/frmAuth', function (req, res, next) {
           copernic_2/
               datas
           */
-          //console.log(result.headers);
-          //console.log(result.body);
+          console.log(result.headers);
+          console.log(result.body);
           res.end("Thx bye");
       });
 });
