@@ -38,13 +38,13 @@ app.use(function(request, response, next) {
     next();
 });
 
-// HTTP NTLM express.js ========================================================
+// HTTP express.js =============================================================
 app.post('/frmAuth', function (req, res, next) {
 
     var username = "intranet/" + req.body.username;
     var password = req.body.password;
     var zipUrl = "https://cmisrvm1.epfl.ch/cmi/v1.5/copernic_2/";
-    var yearmonth = document.getElementById("yearmonth").value;
+    var yearmonth = req.body.yearmonth;
 
     console.log("request started");
     var post_data = qs.stringify({
@@ -70,6 +70,7 @@ app.post('/frmAuth', function (req, res, next) {
       url: zipUrl,
       headers: {
         Authorization: "Basic " + new Buffer(username + ":" + password).toString("base64"),
+        'User-Agent': 'Super Agent/0.0.1',
         'Content-Type': 'application/x-www-form-urlencoded',
         'Content-Length': Buffer.byteLength(post_data)
         //'Content-Encoding': 'gzip, deflate, sdch'
@@ -83,9 +84,9 @@ app.post('/frmAuth', function (req, res, next) {
           var copernic = zip.folder("copernic_2");
 
           copernic.file(post_data);
+          console.log(copernic.file(post_data));
 
           zip.generateAsync({type:"blob"}).then(function(content) {
-
             console.log('content :' + content);
               // see FileSaver.js
               FileSaver.saveAs(content, copernic);
@@ -96,8 +97,8 @@ app.post('/frmAuth', function (req, res, next) {
           copernic_2/
               datas
           */
-          console.log(result.headers);
-          console.log(result.body);
+          //console.log(result.headers);
+          //console.log(result.body);
           res.end("Thx bye");
       });
 });
