@@ -9,7 +9,13 @@ describe('Scrape Zip data from Modulotech', function(){
     })
 
     xit('Fake csv document', function(){
-        assert.equal(true,true);
+        var
+            yearmonth = "",
+            username = "",
+            password = "",
+            requestForFake = "";
+
+        assert.deepEqual(scrapeAsync(yearmonth, username, password, requestForFake),"XXX");
     })
 
 })
