@@ -1,6 +1,7 @@
 var assert = require('assert');
 var Scrape = require('./scrape.js');
 //scrapeAsync(yearmonth, username, password, requestForFake);
+// zip file copernic_2/ for the test
 
 describe('Scrape Zip data from Modulotech', function(){
 

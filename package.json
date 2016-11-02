@@ -22,5 +22,11 @@
     "q": "^1.4.1",
     "request": "^2.76.0",
     "serve-favicon": "^2.3.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "grunt": "latest",
+    "grunt-mocha": "^1.0.2",
+    "mocha": "^3.1.2"
   }
 }
