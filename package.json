@@ -29,6 +29,7 @@
     "grunt": "latest",
     "grunt-mocha": "^1.0.2",
     "grunt-mocha-test": "^0.13.2",
-    "mocha": "^3.1.2"
+    "mocha": "^3.1.2",
+    "request-promise": "^4.1.1"
   }
 }

@@ -30,7 +30,7 @@ module.exports = function scrapeAsync(yearmonth, username, password, requestForF
         return Q.nfcall(request.post, argsForEveryPost).then(function (results) {
             var response = results[0];  // request.post callback takes more than one argument in the success case
             // TODO: parse page from response.body
-            return ["CMi","ENAC-IIC-LESO-PB","ENAC-IIE-LGB","EXT-Aleva","EXT-Asulab",
+            var labos = ["CMi","ENAC-IIC-LESO-PB","ENAC-IIE-LGB","EXT-Aleva","EXT-Asulab",
                 "EXT-Axetris","EXT-Bruker","EXT-CERN","EXT-CSEM_T1","EXT-CSEM_T3","EXT-Efficonseil","EXT-EMPA",
                 "EXT-HESGE","EXT-INTEL","EXT-LESS_SA","EXT-LSPR","EXT-Mackinac","EXT-MCH-processing","EXT-Meister-Abrasive",
                 "EXT-Microcrystal","EXT-Morphotonix","EXT-Novagan","EXT-Piemacs","EXT-Rolex","EXT-Samtec","EXT-Sigatec","EXT-SilMach",
@@ -44,6 +44,7 @@ module.exports = function scrapeAsync(yearmonth, username, password, requestForF
                 "STI-IMX-LC","STI-IMX-LMGN","STI-IMX-LMM","STI-IMX-LMOM","STI-IMX-LMSC","STI-IMX-LP","STI-IMX-SMAL",
                 "STI-SCI-CD","STI-SCI-PM","SV-GHI-UPKIN","SV-IBI-LLCB","SV-IBI-UPDEPLA","SV-IBI-UPLUT","SV-IBI-UPNAE","SV-ISREC-CDTSO"
             ];
+            return labos;
         }).then(function (labNames) {
             return Q.nfcall(request.post, _.extend({}, argsForEveryPost, {
                 form: {
