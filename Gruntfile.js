@@ -1,12 +1,16 @@
 // Gruntfile.js
 module.exports = function(grunt){
+
+    // Load grunt mocha task
+    grunt.loadNpmTasks('grunt-mocha-test');
+
     grunt.initConfig({
         pkg: grunt.file.readJSON('package.json'),
 
         // Mocha
-        mocha: {
-            all: {
-                src: ['tests/testrunner.html'],
+        mochaTest: {
+            test: {
+                src: ['tests/tests.js'],
             },
             options: {
                 run: true
@@ -14,8 +18,5 @@ module.exports = function(grunt){
         }
     });
 
-    // Load grunt mocha task
-    grunt.loadNpmTasks('grunt-mocha');
-
-    grunt.registerTask('default', ['mocha']);
+    grunt.registerTask('default', ['mochaTest']);
 };
