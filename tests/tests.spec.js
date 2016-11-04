@@ -5,11 +5,13 @@ var assert = chai.assert;
 var expect = chai.expect;
 //var request = require('request');
 var request = require('request-promise');
+var fs = require('fs');
+var archiver = require('archiver');
 
 
 describe('Init test', function(){
     describe('#OK',function(){
-        xit('should be loaded', function(){
+        it('should be loaded', function(){
             assert.equal(true,true);
         });
     });
@@ -29,7 +31,7 @@ describe('Asynchronous Code', function(){
 });
 
 describe('GET /', function(){
-    it('should respond with statusCode 200', function (done) {
+    xit('should respond with statusCode 200', function (done) {
         console.log("request done!");
         request('https://modulus.io', function (error, response, body) {
             //Check for error
@@ -48,6 +50,30 @@ describe('GET /', function(){
     });
 });
 
+
+describe('ZIP file /', function(){
+    it('should create a target.zip file', function(){
+
+        var output = fs.createWriteStream('target.zip');
+        var archive = archiver('zip');
+
+        output.on('close', function () {
+            console.log(archive.pointer() + ' total bytes');
+            console.log('archiver has been finalized and the output file descriptor has closed.');
+        });
+
+        archive.on('error', function(err){
+            throw err;
+        });
+
+        archive.pipe(output);
+
+        // append a file from string
+        archive.append('string cheese!', { name: 'file2.txt' });
+
+        archive.finalize();
+    });
+});
 
 
 

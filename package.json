@@ -24,8 +24,10 @@
     "serve-favicon": "^2.3.0"
   },
   "devDependencies": {
+    "archiver": "^1.2.0",
     "chai": "^3.5.0",
     "chai-as-promised": "^6.0.0",
+    "fs": "0.0.1-security",
     "grunt": "latest",
     "grunt-mocha": "^1.0.2",
     "grunt-mocha-test": "^0.13.2",
