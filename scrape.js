@@ -59,6 +59,7 @@ module.exports = function scrapeAsync(yearmonth, username, password, requestForF
             if (response.headers["content-type"] != "application/zip") {
                 throw new Error("Bad content-type: " + response.headers["content-type"]);
             }
+            console.log("RESPONSE " + response.body);
             return response.body;
         }).then(function(zipData) {
             return new JSZip.loadAsync(zipData);
