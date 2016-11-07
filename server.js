@@ -1,17 +1,18 @@
 // set up ======================================================================
 var
-  http = require("http"),
-  fs = require('fs'),
-  favicon = require('serve-favicon'),
-  express = require('express'),
-  port = process.env.PORT || 8000, // set the port
-  logger = require('morgan'), // log every request to the console
-  bodyParser = require('body-parser'),
-  methodOverride = require('method-override'),
-  FileSaver = require('file-saver'),
-  _ = require("underscore"),
+    http = require("http"),
+    fs = require('fs'),
+    favicon = require('serve-favicon'),
+    express = require('express'),
+    port = process.env.PORT || 8000, // set the port
+    logger = require('morgan'), // log every request to the console
+    bodyParser = require('body-parser'),
+    methodOverride = require('method-override'),
+    FileSaver = require('file-saver'),
+    _ = require("underscore"),
+    cheerio = require('cheerio'),
 
-  app = express(); // create our app with express
+    app = express(); // create our app with express
 
 // Mongoose ====================================================================
 require('./config/database');

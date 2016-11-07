@@ -7,11 +7,12 @@ var expect = chai.expect;
 var request = require('request-promise');
 var fs = require('fs');
 var archiver = require('archiver');
+var cheerio = require('cheerio');
 
 
 describe('Init test', function(){
     describe('#OK',function(){
-        it('should be loaded', function(){
+        xit('should be loaded', function(){
             assert.equal(true,true);
         });
     });
@@ -31,19 +32,80 @@ describe('Asynchronous Code', function(){
 });
 
 describe('GET /', function(){
-    xit('should respond with statusCode 200', function (done) {
-        console.log("request done!");
-        request('https://modulus.io', function (error, response, body) {
+    it('should respond with statusCode 200 & file written in output.json', function (done) {
+        console.log("request output done!");
+        var url = 'http://www.imdb.com/title/tt5091538/';
+        request(url, function (error, response, html) {
             //Check for error
-            if(error){
-                return console.log('Error:', error);
+            if(!error){
+                var $ = cheerio.load(html);
+                var title, storyline;
+                var json = { title : "",storyline : ""};
+
+                //Check for title
+                $('h1').filter(function(){
+                    var data = $(this);
+                    title = data.text();
+                    json.title = title;
+                });
+                //Check for storyline
+                $('.canwrap p').filter(function(){
+                    var data = $(this);
+                    storyline = data.text();
+                    json.storyline = storyline;
+
+                });
+
             }
             //Check for right status code
             if(response.statusCode !== 200){
                 return console.log('Invalid Status Code Returned:', response.statusCode);
             }
-            //All is good. Print the body
-            console.log(body); // Show the HTML for the Modulus homepage.
+            //All is good. Print the html in a Json file
+            fs.writeFile('output.json', JSON.stringify(json, null, 4), function(err){
+                console.log('File output.json successfully written!');
+            });
+
+            done();
+
+        });
+    });
+
+    it('should write the reponse in labos.json', function (done) {
+        console.log("request labos done!");
+        var url = 'https://cmisrvm1.epfl.ch/cmi/v1.5/copernic_2/';
+        request(url, function (error, response, html) {
+            //Check for error
+            if(!error){
+                var $ = cheerio.load(html);
+                var title, labos ;
+                var json = { title : "", labos : ""};
+
+                //Check for title
+                $('h2').filter(function(){
+                    var data = $(this);
+                    title = data.text();
+                    json.title = title;
+                });
+
+                //Check for labos
+                /*$('#Labo option').filter(function(){
+                    var data = $(this);
+                    labos = data.value();
+                    json.labos = labos;
+                });
+                console.log(labos);*/
+
+            }
+            //Check for right status code
+            if(response.statusCode !== 200){
+                return console.log('Invalid Status Code Returned:', response.statusCode);
+            }
+            //All is good. Print the html in a Json file
+            fs.writeFile('labos.json', JSON.stringify(json, null, 4), function(err){
+                console.log('File labos.json successfully written!');
+            });
+
             done();
 
         });
@@ -52,7 +114,7 @@ describe('GET /', function(){
 
 
 describe('ZIP file /', function(){
-    it('should create a target.zip file', function(){
+    xit('should create a target.zip file', function(){
 
         var output = fs.createWriteStream('target.zip');
         var archive = archiver('zip');
