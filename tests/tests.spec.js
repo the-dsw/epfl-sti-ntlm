@@ -71,7 +71,7 @@ describe('GET /', function(){
         });
     });
 
-    it('should write the reponse in labos.json', function (done) {
+    xit('should write the reponse in labos.json', function (done) {
         console.log("request labos done!");
         var url = 'https://cmisrvm1.epfl.ch/cmi/v1.5/copernic_2/';
         request(url, function (error, response, html) {
@@ -89,12 +89,12 @@ describe('GET /', function(){
                 });
 
                 //Check for labos
-                /*$('#Labo option').filter(function(){
+                $('#Labo option').filter(function(){
                     var data = $(this);
                     labos = data.value();
                     json.labos = labos;
                 });
-                console.log(labos);*/
+                console.log(labos);
 
             }
             //Check for right status code
