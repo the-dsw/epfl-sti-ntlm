@@ -3,7 +3,8 @@ var
     JSZip = require("jszip"),
     Q = require("q"),
     iconv = require('iconv-lite'),
-    _ = require("underscore");
+    _ = require("underscore"),
+    cheerio = require('cheerio');
 
 /**
  * Scrape Zip data from Modulotech
@@ -29,7 +30,18 @@ module.exports = function scrapeAsync(yearmonth, username, password, requestForF
         };
         return Q.nfcall(request.post, argsForEveryPost).then(function (results) {
             var response = results[0];  // request.post callback takes more than one argument in the success case
+            var $ = cheerio.load(response.body);
+            var labo;
             // TODO: parse page from response.body
+            $('#Labo option').filter(function(){
+                var data = $(this);
+                      labo = data.value();
+            });
+
+            console.log("********* Init response : ***********" + response);
+            console.log("Init cheerio : " + labo);
+            console.log("+++++++ response body ++++++++ " + response.body);
+
             return ["CMi","ENAC-IIC-LESO-PB","ENAC-IIE-LGB","EXT-Aleva","EXT-Asulab",
                 "EXT-Axetris","EXT-Bruker","EXT-CERN","EXT-CSEM_T1","EXT-CSEM_T3","EXT-Efficonseil","EXT-EMPA",
                 "EXT-HESGE","EXT-INTEL","EXT-LESS_SA","EXT-LSPR","EXT-Mackinac","EXT-MCH-processing","EXT-Meister-Abrasive",
@@ -49,6 +61,7 @@ module.exports = function scrapeAsync(yearmonth, username, password, requestForF
                 form: {
                     yearmonth: yearmonth,
                     "Labo[]": labNames,
+                    displaylabbut : 1,
                     loadcsvbut : 1
                 }
             }));
