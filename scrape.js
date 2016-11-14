@@ -36,7 +36,6 @@ module.exports = function scrapeAsync(yearmonth, username, password, requestForF
         })).then(function (results) {
             var response = results[0];  // request.post callback takes more than one argument in the success case
 
-
             var $ = cheerio.load(response.body);
             var labos = [];
 

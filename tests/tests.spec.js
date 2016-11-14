@@ -70,46 +70,6 @@ describe('GET /', function(){
 
         });
     });
-
-    xit('should write the reponse in labos.json', function (done) {
-        console.log("request labos done!");
-        var url = 'https://cmisrvm1.epfl.ch/cmi/v1.5/copernic_2/';
-        request(url, function (error, response, html) {
-            //Check for error
-            if(!error){
-                var $ = cheerio.load(html);
-                var title, labos ;
-                var json = { title : "", labos : ""};
-
-                //Check for title
-                $('h2').filter(function(){
-                    var data = $(this);
-                    title = data.text();
-                    json.title = title;
-                });
-
-                //Check for labos
-                $('#Labo option').filter(function(){
-                    var data = $(this);
-                    labos = data.value();
-                    json.labos = labos;
-                });
-                console.log(labos);
-
-            }
-            //Check for right status code
-            if(response.statusCode !== 200){
-                return console.log('Invalid Status Code Returned:', response.statusCode);
-            }
-            //All is good. Print the html in a Json file
-            fs.writeFile('labos.json', JSON.stringify(json, null, 4), function(err){
-                console.log('File labos.json successfully written!');
-            });
-
-            done();
-
-        });
-    });
 });
 
 
