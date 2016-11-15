@@ -74,9 +74,9 @@ describe('GET /', function(){
 
 
 describe('ZIP file /', function(){
-    xit('should create a target.zip file', function(){
+    xit('should read and unzip a file', function(){
 
-        var output = fs.createWriteStream('target.zip');
+        var output = fs.open('copernic20161108110016.zip');
         var archive = archiver('zip');
 
         output.on('close', function () {
