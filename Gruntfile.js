@@ -10,12 +10,12 @@ module.exports = function(grunt){
 
         // Define an unzip task
         unzip: {
-            'tests/': 'tests/copernic20161108110016.zip'
+            'test/': 'test/copernic20161108110016.zip'
         },
         // Mocha
         mochaTest: {
             test: {
-                src: ['tests/**/*.js'],
+                src: ['test/**/*.js'],
             },
             options: {
                 run: true
