@@ -12,10 +12,9 @@ module.exports = function(grunt){
         unzip: {
             'test/': 'test/copernic20161108110016.zip'
         },
-        // Mocha
         mochaTest: {
             test: {
-                src: ['test/**/*.js'],
+                src: ['test/**/*.js', '!test/learn.spec.js', '!test/lib/**']
             },
             options: {
                 run: true
@@ -23,5 +22,16 @@ module.exports = function(grunt){
         }
     });
 
-    grunt.registerTask('default', ['mochaTest']);
+    grunt.registerTask('default', function() {
+        grunt.task.run('mochaTest');
+    });
+    grunt.registerTask('acceptance', function() {
+        grunt.config.set('mochaTest.test.src', 'test/scrape.spec.js');
+        grunt.task.run('mochaTest');
+    });
+    grunt.registerTask('learntests', function () {
+        grunt.config.set('mochaTest.test.src', 'test/learn.spec.js');
+        grunt.task.run('mochaTest');
+
+    })
 };

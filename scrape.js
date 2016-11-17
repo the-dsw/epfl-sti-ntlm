@@ -13,7 +13,7 @@ var
  * @param password
  * @param requestForFake Override the request module; for use in unit tests
  * @returns {Promise} Empty promise
- * @todo return promise for data structure instead
+ * @todo return promise for zip instead
  */
 module.exports = function scrapeAsync(yearmonth, username, password, requestForFake) {
     var request = requestForFake ? requestForFake : require("request");
@@ -63,6 +63,7 @@ module.exports = function scrapeAsync(yearmonth, username, password, requestForF
         }).then(function(zipData) {
             return new JSZip.loadAsync(zipData);
         }).then(function(zip) {
+            // TODO: return zip to caller here; caller should call readBilling() in a .then()
             var promises = [];
             zip.forEach(function(path, file) {
                 promises.push(file.async("binarystring").then(function(csvContentsBinary) {
