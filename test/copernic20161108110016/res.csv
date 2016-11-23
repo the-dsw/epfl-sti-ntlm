@@ -1,0 +1,1279 @@
+2016;11;"Code Client CMi";"Abrev. Labo";Id-User;"Nom User";"Prénom User";Id-Machine;"Nom Machine";"Date et Heure début de slot";"Durée du slot réservé HP";"Durée du slot réservé HC";"Slot supprimé";"Durée ouvrée";"Date et Heure de réservation";"Date et Heure de suppression"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-01 00:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-01 00:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-01 01:00:00";0;30;NON;0;;
+2016;11;218717;EXT-INTEL;user01462;Gamper;"Stephan (INTEL)";mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-01 07:30:00";150;0;NON;0;;
+2016;11;219455;CMi;user00165;Hibert;Cyrille;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-01 07:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00094;Racine;Georges-andré;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-01 07:30:00";30;0;NON;0;;
+2016;11;219544;STI-IMT-LMIS1;user02557;"Pinto Gómez";Christian;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-01 07:30:00";30;0;OUI;1104;;"2016-10-31 13:06:00"
+2016;11;219455;CMi;user00165;Hibert;Cyrille;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-01 08:00:00";30;0;NON;0;;
+2016;11;219544;STI-IMT-LMIS1;user02557;"Pinto Gómez";Christian;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-01 08:00:00";30;0;OUI;1152;;"2016-10-31 12:48:00"
+2016;11;219455;CMi;user00094;Racine;Georges-andré;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-01 08:00:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-01 08:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-01 08:30:00";30;0;NON;0;;
+2016;11;219544;STI-IMT-LMIS1;user02557;"Pinto Gómez";Christian;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-01 08:30:00";30;0;OUI;1152;;"2016-10-31 13:18:00"
+2016;11;219572;STI-IMX-LMSC;user01943;Friedl;Martin;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-01 08:30:00";30;0;OUI;912;;"2016-10-31 17:18:00"
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-01 09:00:00";30;0;NON;0;;
+2016;11;219544;STI-IMT-LMIS1;user02557;"Pinto Gómez";Christian;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-01 09:00:00";30;0;OUI;1200;;"2016-10-31 13:00:00"
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-01 09:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01943;Friedl;Martin;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-01 09:00:00";30;0;OUI;912;;"2016-10-31 17:48:00"
+2016;11;219455;CMi;user00094;Racine;Georges-andré;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-01 09:30:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-01 09:30:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01641;Gokhan;Nadar;mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-01 10:00:00";150;0;OUI;900;;"2016-10-31 19:00:00"
+2016;11;219572;STI-IMX-LMSC;user01748;Vukajlovic;Jelena;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-01 10:00:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-01 10:00:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-01 10:00:00";30;0;NON;0;;
+2016;11;219304;SB-IPHYS-LUMES;user02141;Murooka;Yoshie;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-01 10:00:00";30;0;OUI;96;;"2016-11-01 08:24:00"
+2016;11;219455;CMi;user00094;Racine;Georges-andré;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-01 10:00:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01641;Gokhan;Nadar;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-01 10:00:00";30;0;OUI;96;;"2016-11-01 08:24:00"
+2016;11;219546;STI-IMT-LMIS4;user01851;Desbiolles;Benoit;mach126;"Z06 EVG150 - Coater and developer system for positive resist";"2016-11-01 10:00:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-01 10:30:00";30;0;NON;0;;
+2016;11;219304;SB-IPHYS-LUMES;user02141;Murooka;Yoshie;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-01 10:30:00";30;0;OUI;144;;"2016-11-01 08:06:00"
+2016;11;219572;STI-IMX-LMSC;user02581;"Raya Bejarano";Andres;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-01 10:30:00";30;0;OUI;720;;"2016-10-31 22:30:00"
+2016;11;219572;STI-IMX-LMSC;user01748;Vukajlovic;Jelena;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-01 10:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00094;Racine;Georges-andré;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-01 10:30:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user02564;Jahani;Yasaman;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-01 10:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02581;"Raya Bejarano";Andres;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-01 11:00:00";30;0;OUI;720;;"2016-10-31 23:00:00"
+2016;11;219457;STI-IBI-BIOS;user02564;Jahani;Yasaman;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-01 11:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02101;Mikulik;Dmitry;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-01 11:00:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-01 11:00:00";30;0;NON;0;;
+2016;11;219304;SB-IPHYS-LUMES;user02141;Murooka;Yoshie;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-01 11:00:00";30;0;OUI;192;;"2016-11-01 07:48:00"
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-01 11:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02101;Mikulik;Dmitry;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-01 11:30:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-01 11:30:00";30;0;NON;0;;
+2016;11;219304;SB-IPHYS-LUMES;user02141;Murooka;Yoshie;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-01 11:30:00";30;0;OUI;192;;"2016-11-01 08:18:00"
+2016;11;219544;STI-IMT-LMIS1;user02557;"Pinto Gómez";Christian;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-01 11:30:00";30;0;OUI;720;;"2016-10-31 23:30:00"
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-01 11:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02052;Frau;Eleonora;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-01 12:00:00";30;0;NON;0;;
+2016;11;219304;SB-IPHYS-LUMES;user02141;Murooka;Yoshie;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-01 12:00:00";30;0;OUI;240;;"2016-11-01 08:00:00"
+2016;11;219544;STI-IMT-LMIS1;user02557;"Pinto Gómez";Christian;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-01 12:00:00";30;0;OUI;720;;"2016-11-01 00:00:00"
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-01 12:00:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-01 12:00:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-01 12:30:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-01 12:30:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-01 12:30:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02426;"Di Gisi";Marco;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-01 12:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user02309;Unuchek;Dmitrii;mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-01 12:30:00";150;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-01 13:00:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-01 13:00:00";30;0;OUI;1440;;"2016-10-31 13:00:00"
+2016;11;219533;STI-IMT-GR-LVT;user02426;"Di Gisi";Marco;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-01 13:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02510;"Romero Gomez";Pablo;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-01 13:00:00";30;0;OUI;720;;"2016-11-01 01:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-01 13:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user00118;CMI;Maintenance;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-01 13:00:00";30;0;NON;0;;
+2016;11;214292;EXT-SwissTo12;user02207;Barloggio;Luca;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-01 13:30:00";30;0;OUI;720;;"2016-11-01 01:30:00"
+2016;11;219572;STI-IMX-LMSC;user02510;"Romero Gomez";Pablo;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-01 13:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user01014;Dorsaz;Julien;mach205;"Z01 ACS200 - Coater and Developer System for Positive Resist";"2016-11-01 13:30:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user01851;Desbiolles;Benoit;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-01 13:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00118;CMI;Maintenance;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-01 13:30:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-01 13:30:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-01 13:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00118;CMI;Maintenance;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-01 14:00:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-01 14:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user00165;Hibert;Cyrille;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-01 14:00:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-01 14:00:00";30;0;OUI;1440;;"2016-10-31 14:00:00"
+2016;11;214292;EXT-SwissTo12;user02207;Barloggio;Luca;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-01 14:00:00";30;0;OUI;720;;"2016-11-01 02:00:00"
+2016;11;219491;STI-IEL-NANOLAB;user01758;Casu;Emanuele;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-01 14:00:00";30;0;OUI;192;;"2016-11-01 10:48:00"
+2016;11;219455;CMi;user01014;Dorsaz;Julien;mach205;"Z01 ACS200 - Coater and Developer System for Positive Resist";"2016-11-01 14:00:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user01851;Desbiolles;Benoit;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-01 14:00:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-01 14:30:00";30;0;OUI;48;;"2016-11-01 13:42:00"
+2016;11;219455;CMi;user01014;Dorsaz;Julien;mach205;"Z01 ACS200 - Coater and Developer System for Positive Resist";"2016-11-01 14:30:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user01851;Desbiolles;Benoit;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-01 14:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00118;CMI;Maintenance;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-01 14:30:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user01851;Desbiolles;Benoit;mach126;"Z06 EVG150 - Coater and developer system for positive resist";"2016-11-01 14:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02558;Xue;Xiao;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-01 14:30:00";30;0;OUI;720;;"2016-11-01 02:30:00"
+2016;11;219491;STI-IEL-NANOLAB;user01758;Casu;Emanuele;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-01 14:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user01014;Dorsaz;Julien;mach205;"Z01 ACS200 - Coater and Developer System for Positive Resist";"2016-11-01 15:00:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02558;Xue;Xiao;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-01 15:00:00";30;0;OUI;720;;"2016-11-01 03:00:00"
+2016;11;219455;CMi;user00006;Clerc;"Guy François";mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-01 15:00:00";150;0;NON;0;;
+2016;11;219455;CMi;user00118;CMI;Maintenance;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-01 15:00:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-01 15:00:00";30;0;OUI;48;;"2016-11-01 14:12:00"
+2016;11;219470;STI-IBI-LNE;user01912;"Airaghi Leccardi";Marta;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-01 15:00:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user01851;Desbiolles;Benoit;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-01 15:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-01 15:30:00";30;0;OUI;96;;"2016-11-01 13:54:00"
+2016;11;219470;STI-IBI-LNE;user01912;"Airaghi Leccardi";Marta;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-01 15:30:00";30;0;NON;0;;
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-01 15:30:00";30;0;OUI;720;;"2016-11-01 03:30:00"
+2016;11;219455;CMi;user00118;CMI;Maintenance;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-01 15:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user01014;Dorsaz;Julien;mach205;"Z01 ACS200 - Coater and Developer System for Positive Resist";"2016-11-01 15:30:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user01615;Serex;"Ludovic (LMIS4)";mach205;"Z01 ACS200 - Coater and Developer System for Positive Resist";"2016-11-01 16:00:00";30;0;NON;0;;
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-01 16:00:00";30;0;OUI;720;;"2016-11-01 04:00:00"
+2016;11;219546;STI-IMT-LMIS4;user01615;Serex;"Ludovic (LMIS4)";mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-01 16:00:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user01851;Desbiolles;Benoit;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-01 16:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user00118;CMI;Maintenance;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-01 16:00:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-01 16:00:00";30;0;OUI;96;;"2016-11-01 14:24:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-01 16:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02510;"Romero Gomez";Pablo;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-01 16:30:00";30;0;NON;0;;
+2016;11;219557;STI-IMT-NAM;user02472;Wang;Hao;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-01 16:30:00";30;0;OUI;720;;"2016-11-01 04:30:00"
+2016;11;219546;STI-IMT-LMIS4;user01615;Serex;"Ludovic (LMIS4)";mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-01 16:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-01 17:00:00";30;0;OUI;720;;"2016-11-01 05:00:00"
+2016;11;219304;SB-IPHYS-LUMES;user02141;Murooka;Yoshie;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-01 17:00:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user02055;Ozdemir;Cenk;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-01 17:00:00";30;0;NON;0;;
+2016;11;219491;STI-IEL-NANOLAB;user02473;Oliva;Nicolo;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-01 17:00:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user01615;Serex;"Ludovic (LMIS4)";mach205;"Z01 ACS200 - Coater and Developer System for Positive Resist";"2016-11-01 17:00:00";30;0;OUI;120;;"2016-11-01 15:00:00"
+2016;11;219572;STI-IMX-LMSC;user02510;"Romero Gomez";Pablo;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-01 17:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02510;"Romero Gomez";Pablo;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-01 17:30:00";30;0;OUI;720;;"2016-11-01 05:30:00"
+2016;11;219457;STI-IBI-BIOS;user02055;Ozdemir;Cenk;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-01 17:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00006;Clerc;"Guy François";mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-01 17:30:00";150;0;NON;0;;
+2016;11;219304;SB-IPHYS-LUMES;user02141;Murooka;Yoshie;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-01 17:30:00";30;0;NON;0;;
+2016;11;221323;STI-SCI-PM;user02106;Parsapour;Fazel;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-01 17:30:00";30;0;NON;0;;
+2016;11;219491;STI-IEL-NANOLAB;user02473;Oliva;Nicolo;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-01 17:30:00";30;0;NON;0;;
+2016;11;219554;STI-IMT-LSBI;user01592;Vachicouras;Nicolas;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-01 18:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02597;Huang;Kevin;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-01 18:00:00";30;0;OUI;720;;"2016-11-01 06:00:00"
+2016;11;221323;STI-SCI-PM;user02106;Parsapour;Fazel;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-01 18:00:00";30;0;NON;0;;
+2016;11;219304;SB-IPHYS-LUMES;user02141;Murooka;Yoshie;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-01 18:00:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02426;"Di Gisi";Marco;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-01 18:00:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-01 18:00:00";30;0;OUI;1440;;"2016-10-31 18:00:00"
+2016;11;219304;SB-IPHYS-LUMES;user02141;Murooka;Yoshie;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-01 18:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-01 18:30:00";30;0;NON;0;;
+2016;11;221323;STI-SCI-PM;user02106;Parsapour;Fazel;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-01 18:30:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02426;"Di Gisi";Marco;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-01 18:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02597;Huang;Kevin;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-01 18:30:00";30;0;OUI;720;;"2016-11-01 06:30:00"
+2016;11;219554;STI-IMT-LSBI;user01592;Vachicouras;Nicolas;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-01 18:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-01 19:00:00";0;30;OUI;1440;;"2016-10-31 19:00:00"
+2016;11;219304;SB-IPHYS-LUMES;user02141;Murooka;Yoshie;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-01 19:00:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-01 19:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-01 20:00:00";0;30;OUI;1440;;"2016-10-31 20:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-01 20:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-01 21:00:00";0;30;OUI;1440;;"2016-10-31 21:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-01 21:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-01 22:00:00";0;30;OUI;1440;;"2016-10-31 22:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-01 23:00:00";0;30;OUI;1440;;"2016-10-31 23:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 00:00:00";0;30;OUI;1440;;"2016-11-01 00:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 01:00:00";0;30;OUI;1440;;"2016-11-01 01:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 02:00:00";0;30;OUI;1440;;"2016-11-01 02:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 03:00:00";0;30;OUI;1440;;"2016-11-01 03:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 04:00:00";0;30;OUI;1440;;"2016-11-01 04:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 05:00:00";0;30;OUI;1440;;"2016-11-01 05:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 05:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 06:00:00";0;30;OUI;1440;;"2016-11-01 06:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 06:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 07:00:00";30;0;OUI;1440;;"2016-11-01 07:00:00"
+2016;11;219455;CMi;user00006;Clerc;"Guy François";mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-02 07:30:00";150;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 07:30:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user02563;Duchamp;Margaux;mach205;"Z01 ACS200 - Coater and Developer System for Positive Resist";"2016-11-02 07:30:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user02563;Duchamp;Margaux;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-02 07:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 08:00:00";30;0;OUI;1440;;"2016-11-01 08:00:00"
+2016;11;219546;STI-IMT-LMIS4;user02563;Duchamp;Margaux;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-02 08:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02483;Ghisalberti;Lea;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-02 08:00:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-02 08:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02483;Ghisalberti;Lea;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-02 08:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 08:30:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-02 08:30:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user02563;Duchamp;Margaux;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-02 08:30:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user02563;Duchamp;Margaux;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-02 09:00:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 09:00:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-02 09:00:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-02 09:00:00";30;0;NON;0;;
+2016;11;219545;STI-IMT-LMIS2;user02370;Atakan;Baris;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-02 09:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02052;Frau;Eleonora;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-02 09:30:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user02563;Duchamp;Margaux;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-02 09:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 09:30:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-02 09:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02597;Huang;Kevin;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-02 10:00:00";30;0;OUI;720;;"2016-11-01 22:00:00"
+2016;11;219479;STI-IEL-LANES;user02602;Ciarrocchi;Alberto;mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-02 10:00:00";150;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02510;"Romero Gomez";Pablo;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-02 10:00:00";30;0;NON;0;;
+2016;11;219545;STI-IMT-LMIS2;user02370;Atakan;Baris;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-02 10:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02052;Frau;Eleonora;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-02 10:00:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user02549;John-Herpin;Aurelian;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 10:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02597;Huang;Kevin;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-02 10:30:00";30;0;OUI;720;;"2016-11-01 22:30:00"
+2016;11;219455;CMi;user01014;Dorsaz;Julien;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-02 10:30:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user02549;John-Herpin;Aurelian;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 10:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02510;"Romero Gomez";Pablo;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-02 10:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01943;Friedl;Martin;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-02 10:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01943;Friedl;Martin;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-02 11:00:00";30;0;NON;0;;
+2016;11;219571;STI-IMX-LMOM;user02164;Schmaltz;Thomas;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 11:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02581;"Raya Bejarano";Andres;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-02 11:00:00";30;0;OUI;720;;"2016-11-01 23:00:00"
+2016;11;219455;CMi;user01014;Dorsaz;Julien;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-02 11:00:00";30;0;NON;0;;
+2016;11;221323;STI-SCI-PM;user02106;Parsapour;Fazel;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-02 11:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user01014;Dorsaz;Julien;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-02 11:30:00";30;0;NON;0;;
+2016;11;219571;STI-IMX-LMOM;user02164;Schmaltz;Thomas;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 11:30:00";30;0;NON;0;;
+2016;11;221323;STI-SCI-PM;user02106;Parsapour;Fazel;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-02 11:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02581;"Raya Bejarano";Andres;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-02 11:30:00";30;0;OUI;720;;"2016-11-01 23:30:00"
+2016;11;221323;STI-SCI-PM;user02106;Parsapour;Fazel;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-02 12:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user01014;Dorsaz;Julien;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-02 12:00:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01641;Gokhan;Nadar;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 12:00:00";30;0;OUI;96;;"2016-11-02 10:24:00"
+2016;11;219544;STI-IMT-LMIS1;user02557;"Pinto Gómez";Christian;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-02 12:00:00";30;0;OUI;720;;"2016-11-02 00:00:00"
+2016;11;219544;STI-IMT-LMIS1;user02557;"Pinto Gómez";Christian;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-02 12:30:00";30;0;OUI;720;;"2016-11-02 00:30:00"
+2016;11;219455;CMi;user00094;Racine;Georges-andré;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-02 12:30:00";30;0;NON;0;;
+2016;11;221323;STI-SCI-PM;user02106;Parsapour;Fazel;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-02 12:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user01439;"Lopez Sanchez";Oriol;mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-02 12:30:00";150;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02597;Huang;Kevin;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-02 13:00:00";30;0;OUI;720;;"2016-11-02 01:00:00"
+2016;11;221323;STI-SCI-PM;user02106;Parsapour;Fazel;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-02 13:00:00";30;0;NON;0;;
+2016;11;219295;SB-IPHYS-LPMC;user02477;Martino;Edoardo;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-02 13:00:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-02 13:00:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 13:00:00";30;0;OUI;1440;;"2016-11-01 13:00:00"
+2016;11;219295;SB-IPHYS-LPMC;user02477;Martino;Edoardo;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-02 13:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02597;Huang;Kevin;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-02 13:30:00";30;0;OUI;720;;"2016-11-02 01:30:00"
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-02 13:30:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 13:30:00";30;0;NON;0;;
+2016;11;220916;EXT-Efficonseil;user02525;Fahrni;Nicolas;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-02 14:00:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 14:00:00";30;0;OUI;1440;;"2016-11-01 14:00:00"
+2016;11;219295;SB-IPHYS-LPMC;user02477;Martino;Edoardo;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-02 14:00:00";30;0;NON;0;;
+2016;11;219295;SB-IPHYS-LPMC;user02477;Martino;Edoardo;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-02 14:30:00";30;0;NON;0;;
+2016;11;220916;EXT-Efficonseil;user02525;Fahrni;Nicolas;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-02 14:30:00";30;0;NON;0;;
+2016;11;220916;EXT-Efficonseil;user02525;Fahrni;Nicolas;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-02 15:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01832;Potts;Heidi;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 15:00:00";30;0;NON;0;;
+2016;11;219295;SB-IPHYS-LPMC;user02477;Martino;Edoardo;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-02 15:00:00";30;0;NON;0;;
+2016;11;218717;EXT-INTEL;user01462;Gamper;"Stephan (INTEL)";mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-02 15:00:00";150;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01832;Potts;Heidi;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 15:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00094;Racine;Georges-andré;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-02 15:30:00";30;0;NON;0;;
+2016;11;219295;SB-IPHYS-LPMC;user02477;Martino;Edoardo;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-02 15:30:00";30;0;NON;0;;
+2016;11;220916;EXT-Efficonseil;user02525;Fahrni;Nicolas;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-02 15:30:00";30;0;NON;0;;
+2016;11;219208;IC-IINFCOM-LSI1;user02512;Criscuolo;Francesca;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-02 16:00:00";30;0;NON;0;;
+2016;11;219295;SB-IPHYS-LPMC;user02477;Martino;Edoardo;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-02 16:00:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user02563;Duchamp;Margaux;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-02 16:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01832;Potts;Heidi;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 16:00:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user01887;Rodrigo;Daniel;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-02 16:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01832;Potts;Heidi;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 16:30:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user01887;Rodrigo;Daniel;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-02 16:30:00";30;0;NON;0;;
+2016;11;219295;SB-IPHYS-LPMC;user02477;Martino;Edoardo;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-02 16:30:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user02563;Duchamp;Margaux;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-02 16:30:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-02 16:30:00";30;0;OUI;24;;"2016-11-02 16:06:00"
+2016;11;219487;STI-IEL-LSM;user01857;Shahrabi;Elmira;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-02 17:00:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-02 17:00:00";30;0;OUI;48;;"2016-11-02 16:12:00"
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-02 17:00:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-02 17:30:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01857;Shahrabi;Elmira;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-02 17:30:00";30;0;OUI;84;;"2016-11-02 16:06:00"
+2016;11;219487;STI-IEL-LSM;user01857;Shahrabi;Elmira;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-02 17:30:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-02 17:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 18:00:00";30;0;OUI;1440;;"2016-11-01 18:00:00"
+2016;11;219487;STI-IEL-LSM;user01857;Shahrabi;Elmira;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-02 18:00:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user01887;Rodrigo;Daniel;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-02 18:00:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01857;Shahrabi;Elmira;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-02 18:00:00";30;0;OUI;120;;"2016-11-02 16:00:00"
+2016;11;219487;STI-IEL-LSM;user01857;Shahrabi;Elmira;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-02 18:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-02 18:30:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01857;Shahrabi;Elmira;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-02 18:30:00";30;0;OUI;144;;"2016-11-02 16:06:00"
+2016;11;219457;STI-IBI-BIOS;user01887;Rodrigo;Daniel;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-02 18:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 18:30:00";30;0;OUI;96;;"2016-11-02 16:54:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 19:00:00";0;30;OUI;1440;;"2016-11-01 19:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 19:30:00";0;30;OUI;144;;"2016-11-02 17:06:00"
+2016;11;219487;STI-IEL-LSM;user01641;Gokhan;Nadar;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 20:00:00";0;30;OUI;1440;;"2016-11-01 20:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 20:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 21:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 21:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 22:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 22:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 23:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-02 23:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 00:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 00:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 01:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 01:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 02:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 02:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 03:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 03:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 04:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 04:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 05:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 05:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 06:00:00";0;30;NON;0;;
+2016;11;219455;CMi;user01236;Pernollet;Joffrey;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-03 06:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 06:30:00";0;30;NON;0;;
+2016;11;219455;CMi;user00006;Clerc;"Guy François";mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-03 07:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user01236;Pernollet;Joffrey;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-03 07:00:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 07:00:00";30;0;NON;0;;
+2016;11;219548;STI-IMT-LO;user02077;Neuenschwander;Matthias;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-03 07:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user01236;Pernollet;Joffrey;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-03 07:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 07:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00006;Clerc;"Guy François";mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-03 07:30:00";30;0;NON;0;;
+2016;11;219548;STI-IMT-LO;user02077;Neuenschwander;Matthias;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-03 08:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user00006;Clerc;"Guy François";mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-03 08:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user01236;Pernollet;Joffrey;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-03 08:00:00";30;0;NON;0;;
+2016;11;218717;EXT-INTEL;user01462;Gamper;"Stephan (INTEL)";mach126;"Z06 EVG150 - Coater and developer system for positive resist";"2016-11-03 08:00:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user01851;Desbiolles;Benoit;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-03 08:30:00";30;0;OUI;240;;"2016-11-03 04:30:00"
+2016;11;218717;EXT-INTEL;user01462;Gamper;"Stephan (INTEL)";mach126;"Z06 EVG150 - Coater and developer system for positive resist";"2016-11-03 08:30:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01641;Gokhan;Nadar;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 08:30:00";30;0;OUI;1296;;"2016-11-02 10:54:00"
+2016;11;219455;CMi;user01236;Pernollet;Joffrey;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-03 08:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-03 08:30:00";30;0;OUI;96;;"2016-11-03 06:54:00"
+2016;11;219546;STI-IMT-LMIS4;user01851;Desbiolles;Benoit;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-03 09:00:00";30;0;OUI;264;;"2016-11-03 04:36:00"
+2016;11;220208;EXT-UNIGE-GAP;user02392;Caloz;Misael;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-03 09:00:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01641;Gokhan;Nadar;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 09:00:00";30;0;OUI;1440;;"2016-11-02 09:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-03 09:30:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user01851;Desbiolles;Benoit;mach126;"Z06 EVG150 - Coater and developer system for positive resist";"2016-11-03 09:30:00";30;0;NON;0;;
+2016;11;220208;EXT-UNIGE-GAP;user02392;Caloz;Misael;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-03 09:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user01897;Suter;Kaspar;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-03 09:30:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01641;Gokhan;Nadar;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 09:30:00";30;0;OUI;432;;"2016-11-03 02:18:00"
+2016;11;220208;EXT-UNIGE-GAP;user02392;Caloz;Misael;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-03 10:00:00";30;0;NON;0;;
+2016;11;219491;STI-IEL-NANOLAB;user02473;Oliva;Nicolo;mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-03 10:00:00";150;0;NON;0;;
+2016;11;102575;EXT-SilMach;user00387;Frutos;Jean-Renaud;mach126;"Z06 EVG150 - Coater and developer system for positive resist";"2016-11-03 10:00:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-03 10:00:00";30;0;NON;0;;
+2016;11;219534;STI-IMT-GR-QUA;user02271;Kiss;Marcell;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-03 10:00:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02426;"Di Gisi";Marco;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-03 10:30:00";30;0;NON;0;;
+2016;11;219534;STI-IMT-GR-QUA;user02271;Kiss;Marcell;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-03 10:30:00";30;0;NON;0;;
+2016;11;219491;STI-IEL-NANOLAB;user01758;Casu;Emanuele;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-03 10:30:00";30;0;NON;0;;
+2016;11;220208;EXT-UNIGE-GAP;user02392;Caloz;Misael;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-03 10:30:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user02564;Jahani;Yasaman;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 10:30:00";30;0;OUI;960;;"2016-11-02 18:30:00"
+2016;11;102575;EXT-SilMach;user00387;Frutos;Jean-Renaud;mach126;"Z06 EVG150 - Coater and developer system for positive resist";"2016-11-03 10:30:00";30;0;NON;0;;
+2016;11;102575;EXT-SilMach;user00387;Frutos;Jean-Renaud;mach126;"Z06 EVG150 - Coater and developer system for positive resist";"2016-11-03 11:00:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user02564;Jahani;Yasaman;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 11:00:00";30;0;OUI;1008;;"2016-11-02 18:12:00"
+2016;11;220208;EXT-UNIGE-GAP;user02392;Caloz;Misael;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-03 11:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user00094;Racine;Georges-andré;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-03 11:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02597;Huang;Kevin;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-03 11:00:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02426;"Di Gisi";Marco;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-03 11:00:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user01851;Desbiolles;Benoit;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-03 11:00:00";30;0;OUI;1104;;"2016-11-02 16:36:00"
+2016;11;219572;STI-IMX-LMSC;user02597;Huang;Kevin;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-03 11:30:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user01851;Desbiolles;Benoit;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-03 11:30:00";30;0;NON;0;;
+2016;11;220208;EXT-UNIGE-GAP;user02392;Caloz;Misael;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-03 11:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01748;Vukajlovic;Jelena;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 11:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00094;Racine;Georges-andré;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-03 11:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01748;Vukajlovic;Jelena;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 12:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user00094;Racine;Georges-andré;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-03 12:00:00";30;0;NON;0;;
+2016;11;219544;STI-IMT-LMIS1;user02557;"Pinto Gómez";Christian;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-03 12:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01748;Vukajlovic;Jelena;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 12:30:00";30;0;OUI;48;;"2016-11-03 11:42:00"
+2016;11;219544;STI-IMT-LMIS1;user02557;"Pinto Gómez";Christian;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-03 12:30:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user01615;Serex;"Ludovic (LMIS4)";mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-03 12:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00979;Formation;Rien;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-03 13:00:00";30;0;NON;0;;
+2016;11;219491;STI-IEL-NANOLAB;user01758;Casu;Emanuele;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 13:00:00";30;0;NON;0;;
+2016;11;219304;SB-IPHYS-LUMES;user02141;Murooka;Yoshie;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-03 13:00:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02558;Xue;Xiao;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-03 13:00:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user01615;Serex;"Ludovic (LMIS4)";mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-03 13:00:00";30;0;NON;0;;
+2016;11;102575;EXT-SilMach;user00387;Frutos;Jean-Renaud;mach126;"Z06 EVG150 - Coater and developer system for positive resist";"2016-11-03 13:00:00";30;0;OUI;48;;"2016-11-03 12:12:00"
+2016;11;219546;STI-IMT-LMIS4;user01615;Serex;"Ludovic (LMIS4)";mach205;"Z01 ACS200 - Coater and Developer System for Positive Resist";"2016-11-03 13:00:00";30;0;NON;0;;
+2016;11;219304;SB-IPHYS-LUMES;user02141;Murooka;Yoshie;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-03 13:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00979;Formation;Rien;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-03 13:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02558;Xue;Xiao;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-03 13:30:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-03 13:30:00";30;0;NON;0;;
+2016;11;102575;EXT-SilMach;user00387;Frutos;Jean-Renaud;mach126;"Z06 EVG150 - Coater and developer system for positive resist";"2016-11-03 13:30:00";30;0;NON;0;;
+2016;11;219491;STI-IEL-NANOLAB;user01758;Casu;Emanuele;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 13:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00118;CMI;Maintenance;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-03 14:00:00";30;0;NON;0;;
+2016;11;219304;SB-IPHYS-LUMES;user02141;Murooka;Yoshie;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-03 14:00:00";30;0;NON;0;;
+2016;11;102575;EXT-SilMach;user00387;Frutos;Jean-Renaud;mach126;"Z06 EVG150 - Coater and developer system for positive resist";"2016-11-03 14:00:00";30;0;NON;0;;
+2016;11;220208;EXT-UNIGE-GAP;user02392;Caloz;Misael;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-03 14:30:00";30;0;NON;0;;
+2016;11;219304;SB-IPHYS-LUMES;user02141;Murooka;Yoshie;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-03 14:30:00";30;0;NON;0;;
+2016;11;102575;EXT-SilMach;user00387;Frutos;Jean-Renaud;mach126;"Z06 EVG150 - Coater and developer system for positive resist";"2016-11-03 14:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-03 15:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01748;Vukajlovic;Jelena;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-03 15:00:00";30;0;OUI;1344;;"2016-11-02 16:36:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 15:00:00";30;0;OUI;1440;;"2016-11-02 15:00:00"
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-03 15:00:00";30;0;OUI;480;;"2016-11-03 07:00:00"
+2016;11;220208;EXT-UNIGE-GAP;user02392;Caloz;Misael;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-03 15:00:00";30;0;NON;0;;
+2016;11;219304;SB-IPHYS-LUMES;user02141;Murooka;Yoshie;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-03 15:00:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user01615;Serex;"Ludovic (LMIS4)";mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-03 15:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01832;Potts;Heidi;mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-03 15:00:00";150;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 15:30:00";30;0;OUI;48;;"2016-11-03 14:42:00"
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-03 15:30:00";30;0;OUI;504;;"2016-11-03 07:06:00"
+2016;11;220208;EXT-UNIGE-GAP;user02392;Caloz;Misael;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-03 15:30:00";30;0;NON;0;;
+2016;11;219304;SB-IPHYS-LUMES;user02141;Murooka;Yoshie;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-03 15:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-03 15:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01748;Vukajlovic;Jelena;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-03 15:30:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-03 16:00:00";30;0;NON;0;;
+2016;11;219491;STI-IEL-NANOLAB;user01899;Rupakula;Maneesha;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 16:00:00";30;0;NON;0;;
+2016;11;214292;EXT-SwissTo12;user02207;Barloggio;Luca;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-03 16:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01748;Vukajlovic;Jelena;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-03 16:00:00";30;0;NON;0;;
+2016;11;221323;STI-SCI-PM;user02106;Parsapour;Fazel;mach205;"Z01 ACS200 - Coater and Developer System for Positive Resist";"2016-11-03 16:00:00";30;0;NON;0;;
+2016;11;219304;SB-IPHYS-LUMES;user02141;Murooka;Yoshie;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-03 16:00:00";30;0;NON;0;;
+2016;11;221323;STI-SCI-PM;user02106;Parsapour;Fazel;mach205;"Z01 ACS200 - Coater and Developer System for Positive Resist";"2016-11-03 16:30:00";30;0;OUI;24;;"2016-11-03 16:06:00"
+2016;11;219304;SB-IPHYS-LUMES;user02141;Murooka;Yoshie;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-03 16:30:00";30;0;NON;0;;
+2016;11;219491;STI-IEL-NANOLAB;user01899;Rupakula;Maneesha;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 16:30:00";30;0;NON;0;;
+2016;11;219491;STI-IEL-NANOLAB;user01758;Casu;Emanuele;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-03 16:30:00";30;0;NON;0;;
+2016;11;214292;EXT-SwissTo12;user02207;Barloggio;Luca;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-03 16:30:00";30;0;NON;0;;
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-03 17:00:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 17:00:00";30;0;OUI;1440;;"2016-11-02 17:00:00"
+2016;11;219304;SB-IPHYS-LUMES;user02141;Murooka;Yoshie;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-03 17:00:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 17:30:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02214;Santoruvo;Giovanni;mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-03 17:30:00";150;0;OUI;1200;;"2016-11-02 21:30:00"
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-03 17:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 18:00:00";30;0;OUI;1440;;"2016-11-02 18:00:00"
+2016;11;219557;STI-IMT-NAM;user02472;Wang;Hao;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-03 18:00:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 18:30:00";30;0;NON;0;;
+2016;11;219557;STI-IMT-NAM;user02472;Wang;Hao;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-03 18:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 19:00:00";0;30;OUI;1440;;"2016-11-02 19:00:00"
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 19:30:00";0;30;OUI;192;;"2016-11-03 16:18:00"
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 20:00:00";0;30;OUI;1440;;"2016-11-02 20:00:00"
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 20:30:00";0;30;OUI;240;;"2016-11-03 16:30:00"
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 21:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 21:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 22:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 22:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 23:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-03 23:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 00:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 01:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 01:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 02:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 02:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 03:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 03:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 04:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 04:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 05:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 05:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 06:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 06:30:00";0;30;NON;0;;
+2016;11;219455;CMi;user00006;Clerc;"Guy François";mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-04 07:00:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 07:00:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 07:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00006;Clerc;"Guy François";mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-04 07:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 08:00:00";30;0;OUI;1440;;"2016-11-03 08:00:00"
+2016;11;219455;CMi;user00006;Clerc;"Guy François";mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-04 08:00:00";30;0;NON;0;;
+2016;11;218717;EXT-INTEL;user01462;Gamper;"Stephan (INTEL)";mach205;"Z01 ACS200 - Coater and Developer System for Positive Resist";"2016-11-04 08:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 08:30:00";30;0;OUI;48;;"2016-11-04 07:42:00"
+2016;11;219503;STI-IEL-POWERLAB;user02307;"Abdul Khadar";"Riyaz Mohammed";mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-04 08:30:00";30;0;OUI;96;;"2016-11-04 06:54:00"
+2016;11;219503;STI-IEL-POWERLAB;user02307;"Abdul Khadar";"Riyaz Mohammed";mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-04 09:00:00";30;0;OUI;120;;"2016-11-04 07:00:00"
+2016;11;218717;EXT-INTEL;user01462;Gamper;"Stephan (INTEL)";mach205;"Z01 ACS200 - Coater and Developer System for Positive Resist";"2016-11-04 09:00:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user01851;Desbiolles;Benoit;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-04 09:00:00";30;0;OUI;24;;"2016-11-04 08:36:00"
+2016;11;56;EXT-EMPA;user01480;Petho;Laszlo;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-04 09:00:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user01851;Desbiolles;Benoit;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-04 09:30:00";30;0;OUI;60;;"2016-11-04 08:30:00"
+2016;11;56;EXT-EMPA;user01480;Petho;Laszlo;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-04 09:30:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user02549;John-Herpin;Aurelian;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 10:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01943;Friedl;Martin;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-04 10:00:00";30;0;NON;0;;
+2016;11;56;EXT-EMPA;user01480;Petho;Laszlo;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-04 10:00:00";30;0;NON;0;;
+2016;11;56;EXT-EMPA;user01480;Petho;Laszlo;mach205;"Z01 ACS200 - Coater and Developer System for Positive Resist";"2016-11-04 10:00:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user01851;Desbiolles;Benoit;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-04 10:00:00";30;0;OUI;84;;"2016-11-04 08:36:00"
+2016;11;219455;CMi;user00006;Clerc;"Guy François";mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-04 10:00:00";150;0;NON;0;;
+2016;11;219557;STI-IMT-NAM;user01757;Wang;Xiaolong;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-04 10:00:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user01851;Desbiolles;Benoit;mach126;"Z06 EVG150 - Coater and developer system for positive resist";"2016-11-04 10:00:00";30;0;NON;0;;
+2016;11;219534;STI-IMT-GR-QUA;user02271;Kiss;Marcell;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-04 10:00:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-04 10:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02592;Bernard;Gaetan;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-04 10:30:00";30;0;OUI;504;;"2016-11-04 02:06:00"
+2016;11;219457;STI-IBI-BIOS;user02549;John-Herpin;Aurelian;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 10:30:00";30;0;NON;0;;
+2016;11;56;EXT-EMPA;user01480;Petho;Laszlo;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-04 10:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01943;Friedl;Martin;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-04 10:30:00";30;0;NON;0;;
+2016;11;219534;STI-IMT-GR-QUA;user02271;Kiss;Marcell;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-04 11:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01832;Potts;Heidi;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 11:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02581;"Raya Bejarano";Andres;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-04 11:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02101;Mikulik;Dmitry;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-04 11:00:00";30;0;NON;0;;
+2016;11;56;EXT-EMPA;user01480;Petho;Laszlo;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-04 11:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02581;"Raya Bejarano";Andres;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-04 11:30:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user01851;Desbiolles;Benoit;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-04 11:30:00";30;0;OUI;144;;"2016-11-04 09:06:00"
+2016;11;219557;STI-IMT-NAM;user01757;Wang;Xiaolong;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-04 11:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01832;Potts;Heidi;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 11:30:00";30;0;NON;0;;
+2016;11;219470;STI-IBI-LNE;user02541;Köhler;Florian;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-04 11:30:00";30;0;NON;0;;
+2016;11;56;EXT-EMPA;user01480;Petho;Laszlo;mach205;"Z01 ACS200 - Coater and Developer System for Positive Resist";"2016-11-04 11:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-04 12:00:00";30;0;NON;0;;
+2016;11;219470;STI-IBI-LNE;user02541;Köhler;Florian;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-04 12:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01832;Potts;Heidi;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 12:00:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user01851;Desbiolles;Benoit;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-04 12:00:00";30;0;OUI;192;;"2016-11-04 08:48:00"
+2016;11;219479;STI-IEL-LANES;user02309;Unuchek;Dmitrii;mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-04 12:30:00";150;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-04 12:30:00";30;0;NON;0;;
+2016;11;219470;STI-IBI-LNE;user02541;Köhler;Florian;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-04 12:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-04 13:00:00";30;0;NON;0;;
+2016;11;219557;STI-IMT-NAM;user01757;Wang;Xiaolong;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-04 13:00:00";30;0;OUI;48;;"2016-11-04 12:12:00"
+2016;11;219487;STI-IEL-LSM;user01641;Gokhan;Nadar;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 13:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02558;Xue;Xiao;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-04 14:00:00";30;0;OUI;528;;"2016-11-04 05:12:00"
+2016;11;219491;STI-IEL-NANOLAB;user01758;Casu;Emanuele;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 14:00:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01641;Gokhan;Nadar;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 14:00:00";30;0;OUI;1440;;"2016-11-03 14:00:00"
+2016;11;219455;CMi;user00979;Formation;Rien;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-04 14:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user00979;Formation;Rien;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-04 14:30:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01641;Gokhan;Nadar;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 14:30:00";30;0;OUI;1392;;"2016-11-03 15:18:00"
+2016;11;219455;CMi;user01897;Suter;Kaspar;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-04 14:30:00";30;0;OUI;24;;"2016-11-04 14:06:00"
+2016;11;219298;SB-IPHYS-LPQM1;user02558;Xue;Xiao;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-04 14:30:00";30;0;OUI;576;;"2016-11-04 04:54:00"
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-04 15:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user01897;Suter;Kaspar;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-04 15:00:00";30;0;OUI;24;;"2016-11-04 14:36:00"
+2016;11;218717;EXT-INTEL;user01462;Gamper;"Stephan (INTEL)";mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-04 15:00:00";150;0;OUI;900;;"2016-11-04 00:00:00"
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 15:00:00";30;0;OUI;1440;;"2016-11-03 15:00:00"
+2016;11;219544;STI-IMT-LMIS1;user02599;Chevalier;Pierre;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-04 15:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user00094;Racine;Georges-andré;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-04 15:30:00";30;0;NON;0;;
+2016;11;219544;STI-IMT-LMIS1;user02599;Chevalier;Pierre;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-04 15:30:00";30;0;NON;0;;
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 15:30:00";30;0;NON;0;;
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 16:00:00";30;0;OUI;1440;;"2016-11-03 16:00:00"
+2016;11;219455;CMi;user00094;Racine;Georges-andré;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-04 16:00:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02307;"Abdul Khadar";"Riyaz Mohammed";mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-04 16:00:00";30;0;OUI;24;;"2016-11-04 15:36:00"
+2016;11;219455;CMi;user00094;Racine;Georges-andré;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-04 16:30:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02307;"Abdul Khadar";"Riyaz Mohammed";mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-04 16:30:00";30;0;OUI;48;;"2016-11-04 15:42:00"
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 16:30:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01641;Gokhan;Nadar;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-04 17:00:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02426;"Di Gisi";Marco;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-04 17:00:00";30;0;NON;0;;
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 17:00:00";30;0;OUI;1440;;"2016-11-03 17:00:00"
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-04 17:30:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02307;"Abdul Khadar";"Riyaz Mohammed";mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-04 17:30:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02426;"Di Gisi";Marco;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-04 17:30:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02307;"Abdul Khadar";"Riyaz Mohammed";mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-04 18:00:00";30;0;NON;0;;
+2016;11;216004;EXT-CSEM-Muttenz;user02420;Quaranta;Giorgio;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-06 12:00:00";0;30;OUI;768;;"2016-11-05 23:12:00"
+2016;11;216004;EXT-CSEM-Muttenz;user02420;Quaranta;Giorgio;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-06 12:30:00";0;30;OUI;768;;"2016-11-05 23:42:00"
+2016;11;216004;EXT-CSEM-Muttenz;user02420;Quaranta;Giorgio;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-06 13:00:00";0;30;NON;0;;
+2016;11;216004;EXT-CSEM-Muttenz;user02420;Quaranta;Giorgio;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-06 13:30:00";0;30;NON;0;;
+2016;11;216004;EXT-CSEM-Muttenz;user02420;Quaranta;Giorgio;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-06 14:00:00";0;30;NON;0;;
+2016;11;216004;EXT-CSEM-Muttenz;user02420;Quaranta;Giorgio;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-06 14:30:00";0;30;NON;0;;
+2016;11;216004;EXT-CSEM-Muttenz;user02420;Quaranta;Giorgio;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-06 15:00:00";0;30;NON;0;;
+2016;11;216004;EXT-CSEM-Muttenz;user02420;Quaranta;Giorgio;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-06 15:30:00";0;30;NON;0;;
+2016;11;216004;EXT-CSEM-Muttenz;user02420;Quaranta;Giorgio;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-06 16:00:00";0;30;NON;0;;
+2016;11;216004;EXT-CSEM-Muttenz;user02420;Quaranta;Giorgio;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-06 16:30:00";0;30;NON;0;;
+2016;11;216004;EXT-CSEM-Muttenz;user02420;Quaranta;Giorgio;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-06 17:00:00";0;30;NON;0;;
+2016;11;216004;EXT-CSEM-Muttenz;user02420;Quaranta;Giorgio;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-06 17:30:00";0;30;NON;0;;
+2016;11;219455;CMi;user00165;Hibert;Cyrille;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-07 07:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user00031;Bouvet;Didier;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-07 07:30:00";30;0;OUI;24;;"2016-11-07 07:06:00"
+2016;11;219455;CMi;user00094;Racine;Georges-andré;mach205;"Z01 ACS200 - Coater and Developer System for Positive Resist";"2016-11-07 07:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00006;Clerc;"Guy François";mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-07 07:30:00";150;0;NON;0;;
+2016;11;219455;CMi;user00165;Hibert;Cyrille;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-07 07:30:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01641;Gokhan;Nadar;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-07 08:00:00";30;0;OUI;1440;;"2016-11-06 08:00:00"
+2016;11;219455;CMi;user00094;Racine;Georges-andré;mach205;"Z01 ACS200 - Coater and Developer System for Positive Resist";"2016-11-07 08:00:00";30;0;NON;0;;
+2016;11;219548;STI-IMT-LO;user02077;Neuenschwander;Matthias;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-07 08:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user00031;Bouvet;Didier;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-07 08:00:00";30;0;OUI;48;;"2016-11-07 07:12:00"
+2016;11;219455;CMi;user00165;Hibert;Cyrille;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-07 08:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user00118;CMI;Maintenance;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-07 08:30:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01641;Gokhan;Nadar;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-07 08:30:00";30;0;OUI;48;;"2016-11-07 07:42:00"
+2016;11;219548;STI-IMT-LO;user02077;Neuenschwander;Matthias;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-07 08:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00006;Clerc;"Guy François";mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-07 08:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02565;"van Hees";Youri;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-07 09:00:00";30;0;OUI;120;;"2016-11-07 07:00:00"
+2016;11;219455;CMi;user00118;CMI;Maintenance;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-07 09:00:00";30;0;NON;0;;
+2016;11;219470;STI-IBI-LNE;user02541;Köhler;Florian;mach126;"Z06 EVG150 - Coater and developer system for positive resist";"2016-11-07 09:00:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01641;Gokhan;Nadar;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-07 09:00:00";30;0;OUI;1440;;"2016-11-06 09:00:00"
+2016;11;219455;CMi;user00006;Clerc;"Guy François";mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-07 09:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user00006;Clerc;"Guy François";mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-07 09:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00118;CMI;Maintenance;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-07 09:30:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01641;Gokhan;Nadar;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-07 09:30:00";30;0;OUI;96;;"2016-11-07 07:54:00"
+2016;11;219572;STI-IMX-LMSC;user02565;"van Hees";Youri;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-07 09:30:00";30;0;OUI;144;;"2016-11-07 07:06:00"
+2016;11;219572;STI-IMX-LMSC;user02565;"van Hees";Youri;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-07 10:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user00118;CMI;Maintenance;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-07 10:00:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01857;Shahrabi;Elmira;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-07 10:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user00006;Clerc;"Guy François";mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-07 10:00:00";150;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-07 10:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user00118;CMI;Maintenance;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-07 10:30:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01857;Shahrabi;Elmira;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-07 10:30:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user01874;Poliakine;Jasha;mach205;"Z01 ACS200 - Coater and Developer System for Positive Resist";"2016-11-07 10:30:00";30;0;NON;0;;
+2016;11;219491;STI-IEL-NANOLAB;user01758;Casu;Emanuele;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-07 10:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-07 10:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02565;"van Hees";Youri;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-07 10:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01748;Vukajlovic;Jelena;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-07 11:00:00";30;0;OUI;48;;"2016-11-07 10:12:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-07 11:00:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02414;Faizan;Muhammad;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-07 11:00:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user01874;Poliakine;Jasha;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-07 11:00:00";30;0;OUI;204;;"2016-11-07 07:36:00"
+2016;11;219455;CMi;user00118;CMI;Maintenance;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-07 11:00:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-07 11:00:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02414;Faizan;Muhammad;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-07 11:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01748;Vukajlovic;Jelena;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-07 11:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-07 11:30:00";30;0;OUI;24;;"2016-11-07 11:06:00"
+2016;11;219538;STI-IMT-LAI;user01874;Poliakine;Jasha;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-07 11:30:00";30;0;NON;0;;
+2016;11;219534;STI-IMT-GR-QUA;user02271;Kiss;Marcell;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-07 12:00:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user01874;Poliakine;Jasha;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-07 12:00:00";30;0;NON;0;;
+2016;11;219544;STI-IMT-LMIS1;user02557;"Pinto Gómez";Christian;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-07 12:00:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-07 12:00:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user02536;Domaretskiy;Daniil;mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-07 12:30:00";150;0;NON;0;;
+2016;11;219534;STI-IMT-GR-QUA;user02271;Kiss;Marcell;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-07 12:30:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-07 12:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-07 12:30:00";30;0;NON;0;;
+2016;11;219544;STI-IMT-LMIS1;user02557;"Pinto Gómez";Christian;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-07 12:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02597;Huang;Kevin;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-07 13:00:00";30;0;NON;0;;
+2016;11;219470;STI-IBI-LNE;user02541;Köhler;Florian;mach126;"Z06 EVG150 - Coater and developer system for positive resist";"2016-11-07 13:00:00";30;0;NON;0;;
+2016;11;219554;STI-IMT-LSBI;user01592;Vachicouras;Nicolas;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-07 13:00:00";30;0;OUI;360;;"2016-11-07 07:00:00"
+2016;11;219479;STI-IEL-LANES;user01831;Marinov;Kolyo;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-07 13:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02597;Huang;Kevin;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-07 13:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02052;Frau;Eleonora;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-07 13:30:00";30;0;NON;0;;
+2016;11;219554;STI-IMT-LSBI;user01592;Vachicouras;Nicolas;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-07 13:30:00";30;0;OUI;384;;"2016-11-07 07:06:00"
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-07 14:00:00";30;0;NON;0;;
+2016;11;219554;STI-IMT-LSBI;user01592;Vachicouras;Nicolas;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-07 14:00:00";30;0;OUI;408;;"2016-11-07 07:12:00"
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-07 14:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user00031;Bouvet;Didier;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-07 14:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user01897;Suter;Kaspar;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-07 14:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00031;Bouvet;Didier;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-07 14:30:00";30;0;NON;0;;
+2016;11;219491;STI-IEL-NANOLAB;user02473;Oliva;Nicolo;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-07 14:30:00";30;0;OUI;192;;"2016-11-07 11:18:00"
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-07 14:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user01897;Suter;Kaspar;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-07 15:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02551;Chevalier;Anthony;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-07 15:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user00979;Formation;Rien;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-07 15:00:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02214;Santoruvo;Giovanni;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-07 15:00:00";30;0;OUI;288;;"2016-11-07 10:12:00"
+2016;11;219455;CMi;user01014;Dorsaz;Julien;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-07 15:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02551;Chevalier;Anthony;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-07 15:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00979;Formation;Rien;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-07 15:30:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02214;Santoruvo;Giovanni;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-07 15:30:00";30;0;OUI;336;;"2016-11-07 09:54:00"
+2016;11;219503;STI-IEL-POWERLAB;user02307;"Abdul Khadar";"Riyaz Mohammed";mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-07 16:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user00979;Formation;Rien;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-07 16:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user01014;Dorsaz;Julien;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-07 16:00:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02214;Santoruvo;Giovanni;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-07 16:00:00";30;0;OUI;336;;"2016-11-07 10:24:00"
+2016;11;219487;STI-IEL-LSM;user01857;Shahrabi;Elmira;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-07 16:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00979;Formation;Rien;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-07 16:30:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02307;"Abdul Khadar";"Riyaz Mohammed";mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-07 16:30:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02214;Santoruvo;Giovanni;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-07 16:30:00";30;0;OUI;384;;"2016-11-07 10:06:00"
+2016;11;219457;STI-IBI-BIOS;user02055;Ozdemir;Cenk;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-07 17:00:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01857;Shahrabi;Elmira;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-07 17:00:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-07 17:00:00";30;0;OUI;1440;;"2016-11-06 17:00:00"
+2016;11;219457;STI-IBI-BIOS;user02055;Ozdemir;Cenk;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-07 17:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-07 17:30:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-07 17:30:00";150;0;OUI;150;;"2016-11-07 15:00:00"
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-07 17:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-07 18:00:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-07 18:00:00";30;0;OUI;1440;;"2016-11-06 18:00:00"
+2016;11;221323;STI-SCI-PM;user02106;Parsapour;Fazel;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-07 18:00:00";30;0;NON;0;;
+2016;11;221323;STI-SCI-PM;user02106;Parsapour;Fazel;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-07 18:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-07 18:30:00";30;0;OUI;48;;"2016-11-07 17:42:00"
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-07 19:00:00";0;30;OUI;1440;;"2016-11-06 19:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-07 19:00:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-07 19:30:00";0;30;OUI;96;;"2016-11-07 17:54:00"
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-07 20:00:00";0;30;OUI;1440;;"2016-11-06 20:00:00"
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-07 20:30:00";0;30;OUI;144;;"2016-11-07 18:06:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01701;Ghadimi;Amir;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-07 21:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01701;Ghadimi;Amir;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-07 21:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01701;Ghadimi;Amir;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-07 22:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01701;Ghadimi;Amir;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-07 22:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01701;Ghadimi;Amir;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-07 23:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01701;Ghadimi;Amir;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-07 23:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01701;Ghadimi;Amir;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-08 00:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01701;Ghadimi;Amir;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-08 01:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01701;Ghadimi;Amir;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-08 02:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01701;Ghadimi;Amir;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-08 03:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01701;Ghadimi;Amir;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-08 04:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01701;Ghadimi;Amir;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-08 05:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01701;Ghadimi;Amir;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-08 06:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01701;Ghadimi;Amir;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-08 06:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01701;Ghadimi;Amir;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-08 07:00:00";30;0;NON;0;;
+2016;11;219548;STI-IMT-LO;user02077;Neuenschwander;Matthias;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-08 07:00:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-08 07:30:00";150;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02414;Faizan;Muhammad;mach205;"Z01 ACS200 - Coater and Developer System for Positive Resist";"2016-11-08 07:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01701;Ghadimi;Amir;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-08 07:30:00";30;0;NON;0;;
+2016;11;219548;STI-IMT-LO;user02077;Neuenschwander;Matthias;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-08 07:30:00";30;0;NON;0;;
+2016;11;219548;STI-IMT-LO;user02077;Neuenschwander;Matthias;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-08 08:00:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-08 08:00:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01641;Gokhan;Nadar;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-08 08:00:00";30;0;OUI;1440;;"2016-11-07 08:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-08 08:30:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01641;Gokhan;Nadar;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-08 08:30:00";30;0;NON;0;;
+2016;11;219548;STI-IMT-LO;user02077;Neuenschwander;Matthias;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-08 08:30:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01641;Gokhan;Nadar;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-08 09:00:00";30;0;OUI;1440;;"2016-11-07 09:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-08 09:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user00006;Clerc;"Guy François";mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-08 09:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user01236;Pernollet;Joffrey;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-08 09:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user01014;Dorsaz;Julien;mach126;"Z06 EVG150 - Coater and developer system for positive resist";"2016-11-08 09:00:00";30;0;NON;0;;
+2016;11;219491;STI-IEL-NANOLAB;user01758;Casu;Emanuele;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-08 09:30:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01641;Gokhan;Nadar;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-08 09:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00006;Clerc;"Guy François";mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-08 09:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user01014;Dorsaz;Julien;mach126;"Z06 EVG150 - Coater and developer system for positive resist";"2016-11-08 09:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user01236;Pernollet;Joffrey;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-08 09:30:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01857;Shahrabi;Elmira;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-08 09:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user01236;Pernollet;Joffrey;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-08 10:00:00";30;0;NON;0;;
+2016;11;219545;STI-IMT-LMIS2;user02305;Huang;Xiaopeng;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-08 10:00:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-08 10:00:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user02309;Unuchek;Dmitrii;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-08 10:00:00";30;0;OUI;912;;"2016-11-07 18:48:00"
+2016;11;219532;STI-IMT-ESPLAB;user01803;Shaker;Marjan;mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-08 10:00:00";150;0;NON;0;;
+2016;11;219554;STI-IMT-LSBI;user01592;Vachicouras;Nicolas;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-08 10:00:00";30;0;OUI;24;;"2016-11-08 09:36:00"
+2016;11;219479;STI-IEL-LANES;user02309;Unuchek;Dmitrii;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-08 10:30:00";30;0;OUI;912;;"2016-11-07 19:18:00"
+2016;11;219554;STI-IMT-LSBI;user01592;Vachicouras;Nicolas;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-08 10:30:00";30;0;OUI;48;;"2016-11-08 09:42:00"
+2016;11;219455;CMi;user01236;Pernollet;Joffrey;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-08 10:30:00";30;0;NON;0;;
+2016;11;219534;STI-IMT-GR-QUA;user02271;Kiss;Marcell;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-08 10:30:00";30;0;NON;0;;
+2016;11;219545;STI-IMT-LMIS2;user02305;Huang;Xiaopeng;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-08 10:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00979;Formation;Rien;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-08 11:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user01236;Pernollet;Joffrey;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-08 11:00:00";30;0;NON;0;;
+2016;11;219545;STI-IMT-LMIS2;user02305;Huang;Xiaopeng;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-08 11:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02565;"van Hees";Youri;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-08 11:00:00";30;0;NON;0;;
+2016;11;219554;STI-IMT-LSBI;user01592;Vachicouras;Nicolas;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-08 11:00:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-08 11:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02565;"van Hees";Youri;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-08 11:30:00";30;0;NON;0;;
+2016;11;219554;STI-IMT-LSBI;user01592;Vachicouras;Nicolas;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-08 11:30:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user02583;Scaiola;Davide;mach205;"Z01 ACS200 - Coater and Developer System for Positive Resist";"2016-11-08 11:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00979;Formation;Rien;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-08 11:30:00";30;0;NON;0;;
+2016;11;219544;STI-IMT-LMIS1;user02557;"Pinto Gómez";Christian;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-08 12:00:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-08 12:00:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user01874;Poliakine;Jasha;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-08 12:00:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user01874;Poliakine;Jasha;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-08 12:30:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user02549;John-Herpin;Aurelian;mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-08 12:30:00";150;0;NON;0;;
+2016;11;102575;EXT-SilMach;user00387;Frutos;Jean-Renaud;mach126;"Z06 EVG150 - Coater and developer system for positive resist";"2016-11-08 12:30:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-08 12:30:00";30;0;NON;0;;
+2016;11;219544;STI-IMT-LMIS1;user02557;"Pinto Gómez";Christian;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-08 12:30:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user01874;Poliakine;Jasha;mach205;"Z01 ACS200 - Coater and Developer System for Positive Resist";"2016-11-08 12:30:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-08 12:30:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user02583;Scaiola;Davide;mach205;"Z01 ACS200 - Coater and Developer System for Positive Resist";"2016-11-08 13:00:00";30;0;NON;0;;
+2016;11;102575;EXT-SilMach;user00387;Frutos;Jean-Renaud;mach126;"Z06 EVG150 - Coater and developer system for positive resist";"2016-11-08 13:00:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-08 13:00:00";30;0;OUI;1440;;"2016-11-07 13:00:00"
+2016;11;219295;SB-IPHYS-LPMC;user00892;Ciric;Luka;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-08 13:00:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user01874;Poliakine;Jasha;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-08 13:00:00";30;0;NON;0;;
+2016;11;219491;STI-IEL-NANOLAB;user01758;Casu;Emanuele;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-08 13:00:00";30;0;NON;0;;
+2016;11;219295;SB-IPHYS-LPMC;user00892;Ciric;Luka;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-08 13:30:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user01874;Poliakine;Jasha;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-08 13:30:00";30;0;NON;0;;
+2016;11;219491;STI-IEL-NANOLAB;user01758;Casu;Emanuele;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-08 13:30:00";30;0;NON;0;;
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-08 13:30:00";30;0;NON;0;;
+2016;11;102575;EXT-SilMach;user00387;Frutos;Jean-Renaud;mach126;"Z06 EVG150 - Coater and developer system for positive resist";"2016-11-08 13:30:00";30;0;NON;0;;
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-08 14:00:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-08 14:00:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user01874;Poliakine;Jasha;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-08 14:00:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user02309;Unuchek;Dmitrii;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-08 14:00:00";30;0;NON;0;;
+2016;11;219295;SB-IPHYS-LPMC;user00892;Ciric;Luka;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-08 14:00:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user01874;Poliakine;Jasha;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-08 14:30:00";30;0;NON;0;;
+2016;11;219295;SB-IPHYS-LPMC;user00892;Ciric;Luka;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-08 14:30:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-08 14:30:00";30;0;NON;0;;
+2016;11;219548;STI-IMT-LO;user02077;Neuenschwander;Matthias;mach126;"Z06 EVG150 - Coater and developer system for positive resist";"2016-11-08 14:30:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-08 14:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user02309;Unuchek;Dmitrii;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-08 14:30:00";30;0;NON;0;;
+2016;11;219548;STI-IMT-LO;user02077;Neuenschwander;Matthias;mach126;"Z06 EVG150 - Coater and developer system for positive resist";"2016-11-08 15:00:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user01874;Poliakine;Jasha;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-08 15:00:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-08 15:00:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02214;Santoruvo;Giovanni;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-08 15:00:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user01439;"Lopez Sanchez";Oriol;mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-08 15:00:00";150;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02551;Chevalier;Anthony;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-08 15:00:00";30;0;NON;0;;
+2016;11;219295;SB-IPHYS-LPMC;user00892;Ciric;Luka;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-08 15:00:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02214;Santoruvo;Giovanni;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-08 15:30:00";30;0;NON;0;;
+2016;11;102575;EXT-SilMach;user00387;Frutos;Jean-Renaud;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-08 15:30:00";30;0;NON;0;;
+2016;11;219545;STI-IMT-LMIS2;user02305;Huang;Xiaopeng;mach126;"Z06 EVG150 - Coater and developer system for positive resist";"2016-11-08 15:30:00";30;0;NON;0;;
+2016;11;219295;SB-IPHYS-LPMC;user00892;Ciric;Luka;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-08 15:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02551;Chevalier;Anthony;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-08 15:30:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-08 15:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01748;Vukajlovic;Jelena;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-08 15:30:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-08 15:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01748;Vukajlovic;Jelena;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-08 16:00:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-08 16:00:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-08 16:00:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02214;Santoruvo;Giovanni;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-08 16:00:00";30;0;NON;0;;
+2016;11;102575;EXT-SilMach;user00387;Frutos;Jean-Renaud;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-08 16:00:00";30;0;NON;0;;
+2016;11;219545;STI-IMT-LMIS2;user02305;Huang;Xiaopeng;mach126;"Z06 EVG150 - Coater and developer system for positive resist";"2016-11-08 16:00:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-08 16:30:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02214;Santoruvo;Giovanni;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-08 16:30:00";30;0;NON;0;;
+2016;11;102575;EXT-SilMach;user00387;Frutos;Jean-Renaud;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-08 16:30:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01857;Shahrabi;Elmira;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-08 16:30:00";30;0;NON;0;;
+2016;11;219545;STI-IMT-LMIS2;user02305;Huang;Xiaopeng;mach126;"Z06 EVG150 - Coater and developer system for positive resist";"2016-11-08 16:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02558;Xue;Xiao;mach205;"Z01 ACS200 - Coater and Developer System for Positive Resist";"2016-11-08 16:30:00";30;0;NON;0;;
+2016;11;219545;STI-IMT-LMIS2;user02305;Huang;Xiaopeng;mach126;"Z06 EVG150 - Coater and developer system for positive resist";"2016-11-08 17:00:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user01851;Desbiolles;Benoit;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-08 17:00:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02214;Santoruvo;Giovanni;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-08 17:00:00";30;0;NON;0;;
+2016;11;102575;EXT-SilMach;user00387;Frutos;Jean-Renaud;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-08 17:00:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01857;Shahrabi;Elmira;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-08 17:00:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-08 17:30:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02214;Santoruvo;Giovanni;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-08 17:30:00";30;0;NON;0;;
+2016;11;102575;EXT-SilMach;user00387;Frutos;Jean-Renaud;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-08 17:30:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user01851;Desbiolles;Benoit;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-08 17:30:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02214;Santoruvo;Giovanni;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-08 17:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-08 18:00:00";30;0;NON;0;;
+2016;11;102575;EXT-SilMach;user00387;Frutos;Jean-Renaud;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-08 18:00:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user01709;Ovchinnikov;Dmitry;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-08 18:00:00";30;0;NON;0;;
+2016;11;221323;STI-SCI-PM;user02106;Parsapour;Fazel;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-08 18:00:00";30;0;NON;0;;
+2016;11;102575;EXT-SilMach;user00387;Frutos;Jean-Renaud;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-08 18:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user01709;Ovchinnikov;Dmitry;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-08 18:30:00";30;0;NON;0;;
+2016;11;221323;STI-SCI-PM;user02106;Parsapour;Fazel;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-08 18:30:00";30;0;NON;0;;
+2016;11;102575;EXT-SilMach;user00387;Frutos;Jean-Renaud;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-09 07:00:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-09 07:30:00";30;0;NON;0;;
+2016;11;102575;EXT-SilMach;user00387;Frutos;Jean-Renaud;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-09 07:30:00";30;0;NON;0;;
+2016;11;102575;EXT-SilMach;user00387;Frutos;Jean-Renaud;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-09 08:00:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-09 08:00:00";30;0;NON;0;;
+2016;11;102575;EXT-SilMach;user00387;Frutos;Jean-Renaud;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-09 08:30:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-09 08:30:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01641;Gokhan;Nadar;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-09 09:00:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-09 09:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user00979;Formation;Rien;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-09 09:00:00";30;0;NON;0;;
+2016;11;102575;EXT-SilMach;user00387;Frutos;Jean-Renaud;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-09 09:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user01236;Pernollet;Joffrey;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-09 09:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user01014;Dorsaz;Julien;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-09 09:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00979;Formation;Rien;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-09 09:30:00";30;0;NON;0;;
+2016;11;102575;EXT-SilMach;user00387;Frutos;Jean-Renaud;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-09 09:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user01236;Pernollet;Joffrey;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-09 09:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01748;Vukajlovic;Jelena;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-09 09:30:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-09 09:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user01236;Pernollet;Joffrey;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-09 10:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01748;Vukajlovic;Jelena;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-09 10:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user01014;Dorsaz;Julien;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-09 10:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user00979;Formation;Rien;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-09 10:00:00";30;0;NON;0;;
+2016;11;102575;EXT-SilMach;user00387;Frutos;Jean-Renaud;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-09 10:00:00";30;0;NON;0;;
+2016;11;219491;STI-IEL-NANOLAB;user01758;Casu;Emanuele;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-09 10:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00979;Formation;Rien;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-09 10:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user01236;Pernollet;Joffrey;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-09 10:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01748;Vukajlovic;Jelena;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-09 10:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00979;Formation;Rien;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-09 11:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user01236;Pernollet;Joffrey;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-09 11:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01748;Vukajlovic;Jelena;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-09 11:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02581;"Raya Bejarano";Andres;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-09 11:00:00";30;0;NON;0;;
+2016;11;219491;STI-IEL-NANOLAB;user01758;Casu;Emanuele;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-09 11:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02581;"Raya Bejarano";Andres;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-09 11:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00979;Formation;Rien;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-09 11:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01748;Vukajlovic;Jelena;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-09 11:30:00";30;0;NON;0;;
+2016;11;219544;STI-IMT-LMIS1;user02557;"Pinto Gómez";Christian;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-09 12:00:00";30;0;NON;0;;
+2016;11;219491;STI-IEL-NANOLAB;user01758;Casu;Emanuele;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-09 12:00:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01857;Shahrabi;Elmira;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-09 12:00:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user01439;"Lopez Sanchez";Oriol;mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-09 12:30:00";150;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01857;Shahrabi;Elmira;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-09 12:30:00";30;0;NON;0;;
+2016;11;219491;STI-IEL-NANOLAB;user01758;Casu;Emanuele;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-09 12:30:00";30;0;NON;0;;
+2016;11;219544;STI-IMT-LMIS1;user02557;"Pinto Gómez";Christian;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-09 12:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02597;Huang;Kevin;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-09 13:00:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user01874;Poliakine;Jasha;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-09 13:00:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-09 13:00:00";30;0;OUI;1440;;"2016-11-08 13:00:00"
+2016;11;219572;STI-IMX-LMSC;user02597;Huang;Kevin;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-09 13:30:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user01874;Poliakine;Jasha;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-09 13:30:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-09 13:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00979;Formation;Rien;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-09 14:00:00";30;0;NON;0;;
+2016;11;220916;EXT-Efficonseil;user02525;Fahrni;Nicolas;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-09 14:00:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-09 14:00:00";30;0;OUI;1440;;"2016-11-08 14:00:00"
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-09 14:00:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-09 14:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00979;Formation;Rien;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-09 14:30:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-09 14:30:00";30;0;NON;0;;
+2016;11;220916;EXT-Efficonseil;user02525;Fahrni;Nicolas;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-09 14:30:00";30;0;NON;0;;
+2016;11;220916;EXT-Efficonseil;user02525;Fahrni;Nicolas;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-09 15:00:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-09 15:00:00";150;0;NON;0;;
+2016;11;220916;EXT-Efficonseil;user02525;Fahrni;Nicolas;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-09 15:30:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user02534;Bernier;Léa;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-09 16:00:00";30;0;NON;0;;
+2016;11;214292;EXT-SwissTo12;user02207;Barloggio;Luca;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-09 16:30:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user02534;Bernier;Léa;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-09 16:30:00";30;0;NON;0;;
+2016;11;214292;EXT-SwissTo12;user02207;Barloggio;Luca;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-09 17:00:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user02309;Unuchek;Dmitrii;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-09 17:30:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-09 17:30:00";150;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user02309;Unuchek;Dmitrii;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-09 18:00:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-09 18:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-09 19:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-09 19:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-09 20:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-09 20:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-09 21:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-09 21:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-09 22:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-09 22:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-09 23:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-09 23:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 00:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 00:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 01:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 01:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 02:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 02:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 03:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 03:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 04:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 04:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 05:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 05:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 06:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 06:30:00";0;30;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02592;Bernard;Gaetan;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-10 07:00:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 07:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user00094;Racine;Georges-andré;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-10 07:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 07:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02592;Bernard;Gaetan;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-10 07:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02592;Bernard;Gaetan;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-10 08:00:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01641;Gokhan;Nadar;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 08:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user00094;Racine;Georges-andré;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-10 08:00:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01641;Gokhan;Nadar;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 08:30:00";30;0;NON;0;;
+2016;11;219546;STI-IMT-LMIS4;user02583;Scaiola;Davide;mach205;"Z01 ACS200 - Coater and Developer System for Positive Resist";"2016-11-10 09:00:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01641;Gokhan;Nadar;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 09:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02490;Kim;Wonjong;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-10 09:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02490;Kim;Wonjong;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-10 09:30:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-10 09:30:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01641;Gokhan;Nadar;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 09:30:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 10:00:00";30;0;OUI;1440;;"2016-11-09 10:00:00"
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-10 10:00:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user01874;Poliakine;Jasha;mach025;"Z05 Desaules - Wet bench for electroplating Cu, Ni";"2016-11-10 10:00:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user01874;Poliakine;Jasha;mach025;"Z05 Desaules - Wet bench for electroplating Cu, Ni";"2016-11-10 10:30:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 10:30:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-10 10:30:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 11:00:00";30;0;OUI;1440;;"2016-11-09 11:00:00"
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-10 11:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user00006;Clerc;"Guy François";mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-10 11:00:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user01874;Poliakine;Jasha;mach025;"Z05 Desaules - Wet bench for electroplating Cu, Ni";"2016-11-10 11:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user00979;Formation;Rien;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-10 11:00:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01641;Gokhan;Nadar;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 11:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00979;Formation;Rien;mach165;"Z15 Zeiss Merlin - Scanning Electron Microscope";"2016-11-10 11:30:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-10 11:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00006;Clerc;"Guy François";mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-10 11:30:00";30;0;NON;0;;
+2016;11;219544;STI-IMT-LMIS1;user02557;"Pinto Gómez";Christian;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-10 12:00:00";30;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01641;Gokhan;Nadar;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 12:00:00";30;0;NON;0;;
+2016;11;219544;STI-IMT-LMIS1;user02557;"Pinto Gómez";Christian;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-10 12:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user02309;Unuchek;Dmitrii;mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-10 12:30:00";150;0;NON;0;;
+2016;11;219487;STI-IEL-LSM;user01641;Gokhan;Nadar;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 12:30:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 13:00:00";30;0;OUI;1440;;"2016-11-09 13:00:00"
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 13:30:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 14:00:00";30;0;OUI;1440;;"2016-11-09 14:00:00"
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-10 14:00:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 14:30:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-10 14:30:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02214;Santoruvo;Giovanni;mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-10 15:00:00";150;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-10 15:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01748;Vukajlovic;Jelena;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 15:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01748;Vukajlovic;Jelena;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 15:30:00";30;0;NON;0;;
+2016;11;219538;STI-IMT-LAI;user02340;Copt;Florian;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-10 15:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01748;Vukajlovic;Jelena;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 16:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01748;Vukajlovic;Jelena;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 16:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 17:00:00";30;0;OUI;1440;;"2016-11-09 17:00:00"
+2016;11;219503;STI-IEL-POWERLAB;user02214;Santoruvo;Giovanni;mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-10 17:30:00";150;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 17:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 18:00:00";30;0;OUI;1440;;"2016-11-09 18:00:00"
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 18:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 19:00:00";0;30;OUI;1440;;"2016-11-09 19:00:00"
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 19:30:00";0;30;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 20:00:00";0;30;OUI;1440;;"2016-11-09 20:00:00"
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 20:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 21:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 21:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 22:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 22:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 23:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-10 23:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 00:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 00:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 01:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 01:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 02:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 02:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 03:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 03:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 04:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 04:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 05:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 05:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 06:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user02365;Herkommer;Clemens;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 06:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 08:00:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 08:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 09:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01943;Friedl;Martin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 10:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user01943;Friedl;Martin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 10:30:00";30;0;NON;0;;
+2016;11;219491;STI-IEL-NANOLAB;user01758;Casu;Emanuele;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 12:00:00";30;0;NON;0;;
+2016;11;219491;STI-IEL-NANOLAB;user01758;Casu;Emanuele;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 12:30:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 13:00:00";30;0;OUI;1440;;"2016-11-10 13:00:00"
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 13:30:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 14:00:00";30;0;OUI;1440;;"2016-11-10 14:00:00"
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 14:30:00";30;0;NON;0;;
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 15:30:00";30;0;NON;0;;
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 16:00:00";30;0;NON;0;;
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 16:30:00";30;0;NON;0;;
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 17:00:00";30;0;NON;0;;
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 17:30:00";30;0;NON;0;;
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-11 18:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user00979;Formation;Rien;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-14 09:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user00979;Formation;Rien;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-14 09:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user01439;"Lopez Sanchez";Oriol;mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-14 10:00:00";150;0;NON;0;;
+2016;11;219455;CMi;user00979;Formation;Rien;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-14 10:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user00979;Formation;Rien;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-14 10:30:00";30;0;NON;0;;
+2016;11;219491;STI-IEL-NANOLAB;user01758;Casu;Emanuele;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-14 11:00:00";30;0;NON;0;;
+2016;11;219491;STI-IEL-NANOLAB;user01758;Casu;Emanuele;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-14 11:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-14 12:00:00";30;0;NON;0;;
+2016;11;219491;STI-IEL-NANOLAB;user01758;Casu;Emanuele;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-14 12:00:00";30;0;NON;0;;
+2016;11;219491;STI-IEL-NANOLAB;user01758;Casu;Emanuele;mach181;"Z05 Heidelberg VPG200 - Laser lithography system";"2016-11-14 12:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-14 12:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user01439;"Lopez Sanchez";Oriol;mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-14 12:30:00";150;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-14 13:00:00";30;0;OUI;1440;;"2016-11-13 13:00:00"
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-14 13:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user01014;Dorsaz;Julien;mach126;"Z06 EVG150 - Coater and developer system for positive resist";"2016-11-14 14:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user00979;Formation;Rien;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-14 14:00:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-14 14:00:00";30;0;OUI;1440;;"2016-11-13 14:00:00"
+2016;11;219455;CMi;user01014;Dorsaz;Julien;mach126;"Z06 EVG150 - Coater and developer system for positive resist";"2016-11-14 14:30:00";30;0;NON;0;;
+2016;11;219455;CMi;user00979;Formation;Rien;mach048;"Z01 Zeiss LEO 1550 - Scanning Electron Microscope";"2016-11-14 14:30:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-14 14:30:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user02055;Ozdemir;Cenk;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-14 15:00:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user01439;"Lopez Sanchez";Oriol;mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-14 15:00:00";150;0;NON;0;;
+2016;11;219455;CMi;user01014;Dorsaz;Julien;mach126;"Z06 EVG150 - Coater and developer system for positive resist";"2016-11-14 15:00:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user02055;Ozdemir;Cenk;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-14 15:30:00";30;0;NON;0;;
+2016;11;102575;EXT-SilMach;user00387;Frutos;Jean-Renaud;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-14 15:30:00";30;0;NON;0;;
+2016;11;102575;EXT-SilMach;user00387;Frutos;Jean-Renaud;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-14 16:00:00";30;0;NON;0;;
+2016;11;219455;CMi;user01014;Dorsaz;Julien;mach126;"Z06 EVG150 - Coater and developer system for positive resist";"2016-11-14 16:00:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user02055;Ozdemir;Cenk;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-14 16:00:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user02055;Ozdemir;Cenk;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-14 16:30:00";30;0;NON;0;;
+2016;11;102575;EXT-SilMach;user00387;Frutos;Jean-Renaud;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-14 16:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-14 17:00:00";30;0;OUI;1440;;"2016-11-13 17:00:00"
+2016;11;102575;EXT-SilMach;user00387;Frutos;Jean-Renaud;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-14 17:00:00";30;0;NON;0;;
+2016;11;221323;STI-SCI-PM;user02106;Parsapour;Fazel;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-14 17:00:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-14 17:30:00";30;0;NON;0;;
+2016;11;221323;STI-SCI-PM;user02106;Parsapour;Fazel;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-14 17:30:00";30;0;NON;0;;
+2016;11;102575;EXT-SilMach;user00387;Frutos;Jean-Renaud;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-14 17:30:00";30;0;NON;0;;
+2016;11;221323;STI-SCI-PM;user02106;Parsapour;Fazel;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-14 18:00:00";30;0;NON;0;;
+2016;11;102575;EXT-SilMach;user00387;Frutos;Jean-Renaud;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-14 18:00:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-14 18:00:00";30;0;OUI;1440;;"2016-11-13 18:00:00"
+2016;11;221323;STI-SCI-PM;user02106;Parsapour;Fazel;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-14 18:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-14 18:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-14 19:00:00";0;30;OUI;1440;;"2016-11-13 19:00:00"
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-14 19:30:00";0;30;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-14 20:00:00";0;30;OUI;1440;;"2016-11-13 20:00:00"
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-14 20:30:00";0;30;NON;0;;
+2016;11;219455;CMi;user00006;Clerc;"Guy François";mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-15 10:00:00";150;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-15 10:00:00";30;0;OUI;1440;;"2016-11-14 10:00:00"
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-15 10:30:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-15 11:00:00";30;0;OUI;1440;;"2016-11-14 11:00:00"
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-15 11:30:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-15 12:00:00";30;0;OUI;1440;;"2016-11-14 12:00:00"
+2016;11;219479;STI-IEL-LANES;user02309;Unuchek;Dmitrii;mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-15 12:30:00";150;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-15 12:30:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-15 13:00:00";30;0;OUI;1440;;"2016-11-14 13:00:00"
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-15 13:30:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-15 14:00:00";30;0;OUI;1440;;"2016-11-14 14:00:00"
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-15 14:30:00";30;0;NON;0;;
+2016;11;216004;EXT-CSEM-Muttenz;user02420;Quaranta;Giorgio;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-15 15:00:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-15 15:30:00";30;0;NON;0;;
+2016;11;216004;EXT-CSEM-Muttenz;user02420;Quaranta;Giorgio;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-15 15:30:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-15 16:00:00";30;0;NON;0;;
+2016;11;216004;EXT-CSEM-Muttenz;user02420;Quaranta;Giorgio;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-15 16:00:00";30;0;NON;0;;
+2016;11;216004;EXT-CSEM-Muttenz;user02420;Quaranta;Giorgio;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-15 16:30:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-15 16:30:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-15 17:00:00";30;0;NON;0;;
+2016;11;216004;EXT-CSEM-Muttenz;user02420;Quaranta;Giorgio;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-15 17:00:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-15 17:30:00";30;0;NON;0;;
+2016;11;216004;EXT-CSEM-Muttenz;user02420;Quaranta;Giorgio;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-15 17:30:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-15 18:00:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-15 18:00:00";30;0;OUI;1440;;"2016-11-14 18:00:00"
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-15 18:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-15 18:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-15 19:00:00";0;30;OUI;1440;;"2016-11-14 19:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-15 19:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-15 20:00:00";0;30;OUI;1440;;"2016-11-14 20:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-15 20:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-15 21:00:00";0;30;OUI;1440;;"2016-11-14 21:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-15 21:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-15 22:00:00";0;30;OUI;1440;;"2016-11-14 22:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-15 22:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-15 23:00:00";0;30;OUI;1440;;"2016-11-14 23:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-15 23:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-16 00:00:00";0;30;OUI;1440;;"2016-11-15 00:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-16 00:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-16 01:00:00";0;30;OUI;1440;;"2016-11-15 01:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-16 01:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-16 02:00:00";0;30;OUI;1440;;"2016-11-15 02:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-16 02:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-16 03:00:00";0;30;OUI;1440;;"2016-11-15 03:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-16 03:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-16 04:00:00";0;30;OUI;1440;;"2016-11-15 04:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-16 04:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-16 05:00:00";0;30;OUI;1440;;"2016-11-15 05:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-16 05:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-16 06:00:00";0;30;OUI;1440;;"2016-11-15 06:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-16 06:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-16 07:00:00";30;0;OUI;1440;;"2016-11-15 07:00:00"
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-16 07:00:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-16 07:30:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-16 07:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-16 08:00:00";30;0;OUI;1440;;"2016-11-15 08:00:00"
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-16 08:00:00";30;0;NON;0;;
+2016;11;218717;EXT-INTEL;user01462;Gamper;"Stephan (INTEL)";mach205;"Z01 ACS200 - Coater and Developer System for Positive Resist";"2016-11-16 08:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-16 08:30:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-16 08:30:00";30;0;NON;0;;
+2016;11;218717;EXT-INTEL;user01462;Gamper;"Stephan (INTEL)";mach205;"Z01 ACS200 - Coater and Developer System for Positive Resist";"2016-11-16 09:00:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-16 09:00:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-16 09:30:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-16 10:00:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-16 10:30:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-16 11:00:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-16 11:30:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-16 12:00:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-16 12:30:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-16 13:00:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-16 13:00:00";30;0;OUI;1440;;"2016-11-15 13:00:00"
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-16 13:30:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-16 13:30:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-16 14:00:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-16 14:00:00";30;0;OUI;1440;;"2016-11-15 14:00:00"
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-16 14:30:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-16 14:30:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-16 15:00:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-16 15:30:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-16 15:30:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-16 16:00:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-16 16:00:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-16 16:30:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-16 16:30:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-16 17:00:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-16 17:30:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-16 18:00:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-16 18:30:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach135;"Z02 Alcatel AMS200 DSE - Plasma etcher - Fluorine chemistry";"2016-11-16 18:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-16 19:00:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-16 19:30:00";0;30;NON;0;;
+2016;11;220315;EXT-CSEM_T3;user01595;Biselli;Silvia;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-17 09:00:00";30;0;NON;0;;
+2016;11;220315;EXT-CSEM_T3;user01595;Biselli;Silvia;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-17 09:30:00";30;0;NON;0;;
+2016;11;220315;EXT-CSEM_T3;user01595;Biselli;Silvia;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-17 10:00:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-17 10:00:00";30;0;OUI;1440;;"2016-11-16 10:00:00"
+2016;11;220315;EXT-CSEM_T3;user01595;Biselli;Silvia;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-17 10:30:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-17 10:30:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-17 11:00:00";30;0;OUI;1440;;"2016-11-16 11:00:00"
+2016;11;220315;EXT-CSEM_T3;user01595;Biselli;Silvia;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-17 11:00:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-17 11:30:00";30;0;NON;0;;
+2016;11;220315;EXT-CSEM_T3;user01595;Biselli;Silvia;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-17 11:30:00";30;0;NON;0;;
+2016;11;220315;EXT-CSEM_T3;user01595;Biselli;Silvia;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-17 12:00:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-17 12:00:00";30;0;OUI;1440;;"2016-11-16 12:00:00"
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-17 12:30:00";30;0;NON;0;;
+2016;11;220315;EXT-CSEM_T3;user01595;Biselli;Silvia;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-17 12:30:00";30;0;NON;0;;
+2016;11;220315;EXT-CSEM_T3;user01595;Biselli;Silvia;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-17 13:00:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-17 13:00:00";30;0;OUI;1440;;"2016-11-16 13:00:00"
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-17 13:30:00";30;0;NON;0;;
+2016;11;220315;EXT-CSEM_T3;user01595;Biselli;Silvia;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-17 13:30:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-17 14:00:00";30;0;OUI;1440;;"2016-11-16 14:00:00"
+2016;11;220315;EXT-CSEM_T3;user01595;Biselli;Silvia;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-17 14:00:00";30;0;NON;0;;
+2016;11;220315;EXT-CSEM_T3;user01595;Biselli;Silvia;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-17 14:30:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-17 14:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-17 15:00:00";30;0;NON;0;;
+2016;11;220315;EXT-CSEM_T3;user01595;Biselli;Silvia;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-17 15:00:00";30;0;NON;0;;
+2016;11;220315;EXT-CSEM_T3;user01595;Biselli;Silvia;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-17 15:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-17 15:30:00";30;0;NON;0;;
+2016;11;220315;EXT-CSEM_T3;user01595;Biselli;Silvia;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-17 16:00:00";30;0;NON;0;;
+2016;11;220315;EXT-CSEM_T3;user01595;Biselli;Silvia;mach124;"Z08 FEI Nova 600 NanoLab - DualBeam (SEM/FIB)";"2016-11-17 16:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-17 17:00:00";30;0;OUI;1440;;"2016-11-16 17:00:00"
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-17 17:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-17 18:00:00";30;0;OUI;1440;;"2016-11-16 18:00:00"
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-17 18:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-17 19:00:00";0;30;OUI;1440;;"2016-11-16 19:00:00"
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-17 19:30:00";0;30;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-17 20:00:00";0;30;OUI;1440;;"2016-11-16 20:00:00"
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-17 20:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-18 08:00:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01671;Schilling;Ryan;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-18 08:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user02309;Unuchek;Dmitrii;mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-18 12:30:00";150;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-18 13:00:00";30;0;OUI;1440;;"2016-11-17 13:00:00"
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-18 13:30:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-18 14:00:00";30;0;OUI;1440;;"2016-11-17 14:00:00"
+2016;11;219470;STI-IBI-LNE;user01912;"Airaghi Leccardi";Marta;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-18 14:00:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-18 14:30:00";30;0;NON;0;;
+2016;11;219470;STI-IBI-LNE;user01912;"Airaghi Leccardi";Marta;mach205;"Z01 ACS200 - Coater and Developer System for Positive Resist";"2016-11-18 15:30:00";30;0;NON;0;;
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-18 16:00:00";30;0;NON;0;;
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-18 16:30:00";30;0;NON;0;;
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-18 17:00:00";30;0;NON;0;;
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-18 17:30:00";30;0;NON;0;;
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-18 18:00:00";30;0;NON;0;;
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-18 18:30:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-21 10:00:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-21 10:30:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-21 11:00:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-21 11:30:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-21 12:00:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-21 12:30:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-21 13:00:00";30;0;OUI;1440;;"2016-11-20 13:00:00"
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-21 13:00:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-21 13:30:00";30;0;NON;0;;
+2016;11;220858;EXT-Piemacs;user01254;Matloub;Ramin;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-21 13:30:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-21 14:00:00";30;0;OUI;1440;;"2016-11-20 14:00:00"
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-21 14:30:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02214;Santoruvo;Giovanni;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-21 15:00:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02214;Santoruvo;Giovanni;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-21 15:30:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02214;Santoruvo;Giovanni;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-21 16:00:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02214;Santoruvo;Giovanni;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-21 16:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-21 17:00:00";30;0;OUI;1440;;"2016-11-20 17:00:00"
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-21 17:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-21 18:00:00";30;0;OUI;1440;;"2016-11-20 18:00:00"
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-21 18:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-21 19:00:00";0;30;OUI;1440;;"2016-11-20 19:00:00"
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-21 19:30:00";0;30;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-21 20:00:00";0;30;OUI;1440;;"2016-11-20 20:00:00"
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-21 20:30:00";0;30;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-22 10:00:00";30;0;OUI;1440;;"2016-11-21 10:00:00"
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-22 10:30:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-22 11:00:00";30;0;OUI;1440;;"2016-11-21 11:00:00"
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-22 11:30:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-22 12:00:00";30;0;OUI;1440;;"2016-11-21 12:00:00"
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-22 12:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user02309;Unuchek;Dmitrii;mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-22 12:30:00";150;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-22 13:00:00";30;0;OUI;1440;;"2016-11-21 13:00:00"
+2016;11;219572;STI-IMX-LMSC;user02592;Bernard;Gaetan;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-22 13:30:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-22 13:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02592;Bernard;Gaetan;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-22 14:00:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-22 14:00:00";30;0;OUI;1440;;"2016-11-21 14:00:00"
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-22 14:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02592;Bernard;Gaetan;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-22 14:30:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02214;Santoruvo;Giovanni;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-22 15:00:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02214;Santoruvo;Giovanni;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-22 15:30:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02214;Santoruvo;Giovanni;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-22 16:00:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02214;Santoruvo;Giovanni;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-22 16:30:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02214;Santoruvo;Giovanni;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-22 17:00:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02214;Santoruvo;Giovanni;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-22 17:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-22 18:00:00";30;0;OUI;1440;;"2016-11-21 18:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-22 18:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-22 19:00:00";0;30;OUI;1440;;"2016-11-21 19:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-22 19:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-22 20:00:00";0;30;OUI;1440;;"2016-11-21 20:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-22 20:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-22 21:00:00";0;30;OUI;1440;;"2016-11-21 21:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-22 21:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-22 22:00:00";0;30;OUI;1440;;"2016-11-21 22:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-22 22:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-22 23:00:00";0;30;OUI;1440;;"2016-11-21 23:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-22 23:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-23 00:00:00";0;30;OUI;1440;;"2016-11-22 00:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-23 00:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-23 01:00:00";0;30;OUI;1440;;"2016-11-22 01:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-23 01:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-23 02:00:00";0;30;OUI;1440;;"2016-11-22 02:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-23 02:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-23 03:00:00";0;30;OUI;1440;;"2016-11-22 03:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-23 03:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-23 04:00:00";0;30;OUI;1440;;"2016-11-22 04:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-23 04:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-23 05:00:00";0;30;OUI;1440;;"2016-11-22 05:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-23 05:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-23 06:00:00";0;30;OUI;1440;;"2016-11-22 06:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-23 06:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-23 07:00:00";30;0;OUI;1440;;"2016-11-22 07:00:00"
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-23 07:00:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-23 07:30:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-23 08:00:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-23 08:00:00";30;0;OUI;1440;;"2016-11-22 08:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-23 08:30:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-23 09:00:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-23 10:00:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-23 11:00:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-23 12:00:00";30;0;NON;0;;
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-23 13:00:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-23 13:00:00";30;0;OUI;1440;;"2016-11-22 13:00:00"
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-23 13:30:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-23 14:00:00";30;0;OUI;1440;;"2016-11-22 14:00:00"
+2016;11;219533;STI-IMT-GR-LVT;user02260;Lozzi;Andrea;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-23 14:00:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-23 14:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02592;Bernard;Gaetan;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-24 07:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02592;Bernard;Gaetan;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-24 08:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02592;Bernard;Gaetan;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-24 08:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02592;Bernard;Gaetan;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-24 09:00:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02592;Bernard;Gaetan;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-24 09:30:00";30;0;NON;0;;
+2016;11;219572;STI-IMX-LMSC;user02592;Bernard;Gaetan;mach118;"Z04 Pfeiffer-Vacuum SPIDER600 - Sputter multi-chamber";"2016-11-24 10:00:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-24 10:00:00";30;0;OUI;1440;;"2016-11-23 10:00:00"
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-24 10:30:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-24 11:00:00";30;0;OUI;1440;;"2016-11-23 11:00:00"
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-24 11:30:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-24 12:00:00";30;0;OUI;1440;;"2016-11-23 12:00:00"
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-24 12:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user02309;Unuchek;Dmitrii;mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-24 12:30:00";150;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-24 13:00:00";30;0;OUI;1440;;"2016-11-23 13:00:00"
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-24 13:30:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-24 14:00:00";30;0;OUI;1440;;"2016-11-23 14:00:00"
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-24 14:30:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02214;Santoruvo;Giovanni;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-24 15:00:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02214;Santoruvo;Giovanni;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-24 15:30:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02214;Santoruvo;Giovanni;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-24 16:00:00";30;0;NON;0;;
+2016;11;219503;STI-IEL-POWERLAB;user02214;Santoruvo;Giovanni;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-24 16:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-24 17:00:00";30;0;OUI;1440;;"2016-11-23 17:00:00"
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-24 17:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-24 18:00:00";30;0;OUI;1440;;"2016-11-23 18:00:00"
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-24 18:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-24 19:00:00";0;30;OUI;1440;;"2016-11-23 19:00:00"
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-24 19:30:00";0;30;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-24 20:00:00";0;30;OUI;1440;;"2016-11-23 20:00:00"
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-24 20:30:00";0;30;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-25 13:00:00";30;0;OUI;1440;;"2016-11-24 13:00:00"
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-25 13:30:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-25 14:00:00";30;0;OUI;1440;;"2016-11-24 14:00:00"
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-25 14:30:00";30;0;NON;0;;
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-25 15:00:00";30;0;NON;0;;
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-25 15:30:00";30;0;NON;0;;
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-25 16:00:00";30;0;NON;0;;
+2016;11;219294;SB-IPHYS-LOEQ;user02397;Navadehtoupchi;Morteza;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-25 16:30:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-28 13:00:00";30;0;OUI;1440;;"2016-11-27 13:00:00"
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-28 13:30:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-28 14:00:00";30;0;OUI;1440;;"2016-11-27 14:00:00"
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-28 14:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-28 17:00:00";30;0;OUI;1440;;"2016-11-27 17:00:00"
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-28 17:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-28 18:00:00";30;0;OUI;1440;;"2016-11-27 18:00:00"
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-28 18:30:00";30;0;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-28 19:00:00";0;30;OUI;1440;;"2016-11-27 19:00:00"
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-28 19:30:00";0;30;NON;0;;
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-28 20:00:00";0;30;OUI;1440;;"2016-11-27 20:00:00"
+2016;11;219479;STI-IEL-LANES;user00940;Kis;Andras;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-28 20:30:00";0;30;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-29 10:00:00";30;0;OUI;1440;;"2016-11-28 10:00:00"
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-29 10:30:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-29 11:00:00";30;0;OUI;1440;;"2016-11-28 11:00:00"
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-29 11:30:00";30;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-29 12:00:00";30;0;OUI;1440;;"2016-11-28 12:00:00"
+2016;11;219479;STI-IEL-LANES;user02309;Unuchek;Dmitrii;mach136;"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off";"2016-11-29 12:30:00";150;0;NON;0;;
+2016;11;219457;STI-IBI-BIOS;user01764;Yesilkoy;Filiz;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-29 12:30:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-29 13:00:00";30;0;OUI;1440;;"2016-11-28 13:00:00"
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-29 13:30:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-29 14:00:00";30;0;OUI;1440;;"2016-11-28 14:00:00"
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-29 14:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-29 18:00:00";30;0;OUI;1440;;"2016-11-28 18:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-29 18:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-29 19:00:00";0;30;OUI;1440;;"2016-11-28 19:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-29 19:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-29 20:00:00";0;30;OUI;1440;;"2016-11-28 20:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-29 20:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-29 21:00:00";0;30;OUI;1440;;"2016-11-28 21:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-29 21:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-29 22:00:00";0;30;OUI;1440;;"2016-11-28 22:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-29 22:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-29 23:00:00";0;30;OUI;1440;;"2016-11-28 23:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-29 23:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-30 00:00:00";0;30;OUI;1440;;"2016-11-29 00:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-30 00:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-30 01:00:00";0;30;OUI;1440;;"2016-11-29 01:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-30 01:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-30 02:00:00";0;30;OUI;1440;;"2016-11-29 02:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-30 02:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-30 03:00:00";0;30;OUI;1440;;"2016-11-29 03:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-30 03:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-30 04:00:00";0;30;OUI;1440;;"2016-11-29 04:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-30 04:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-30 05:00:00";0;30;OUI;1440;;"2016-11-29 05:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-30 05:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-30 06:00:00";0;30;OUI;1440;;"2016-11-29 06:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-30 06:30:00";0;30;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-30 07:00:00";30;0;OUI;1440;;"2016-11-29 07:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-30 07:30:00";30;0;NON;0;;
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-30 08:00:00";30;0;OUI;1440;;"2016-11-29 08:00:00"
+2016;11;219298;SB-IPHYS-LPQM1;user01715;Morais;Tiago;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-30 08:30:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-30 13:00:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-30 13:30:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-30 14:00:00";30;0;NON;0;;
+2016;11;219297;SB-IPHYS-LPN;user00842;Dwir;Benjamin;mach140;"Z07 Vistec EPBG5000ES - Ebeam";"2016-11-30 14:30:00";30;0;NON;0;;

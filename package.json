@@ -29,6 +29,7 @@
     "archiver": "^1.2.0",
     "chai": "^3.5.0",
     "chai-as-promised": "^6.0.0",
+    "chai-things": "^0.2.0",
     "fs": "0.0.1-security",
     "fs-extra": "^1.0.0",
     "grunt": "latest",

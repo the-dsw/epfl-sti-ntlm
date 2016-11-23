@@ -1,4 +1,4 @@
-const baseFolder = '../test/';
+const baseFolder = './test/copernic20161108110016/';
 var
     fs = require('fs'),
     path = require('path'),
@@ -13,19 +13,22 @@ module.exports = function zipMakerP() {
     });
 };
 
+function makeTempZipP_usingJSZip(baseFolder) {
+    return baseFolder;
+}
 
-function makeTempZipP(baseFolder) {
+makeTempZipP = makeTempZipP_usingJSZip;
+
+function makeTempZipP_usingArchiver(baseFolder) {
     var archive = archiver('zip');
 
     var fileNames = [
-        'dir1/file1.txt',
-        'dir3/file6.txt',
-        'dir3/file7.txt',
-        'file8.txt',
-        'file9.txt'
+        'cae.csv',
+        'res.csv',
+        'lvr.csv',
     ];
     var folderNames = [
-        'dir2',
+        'test',
     ]
 
     var output = fs.createWriteStream(path.join(baseFolder, "result.zip"));

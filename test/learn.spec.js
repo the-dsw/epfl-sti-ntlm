@@ -17,6 +17,7 @@ var
     zip = new JSZip();
 
 
+
 describe('Init test', function(){
     describe('#OK',function(){
         xit('should be loaded', function(){
@@ -112,6 +113,20 @@ describe("Example spec for a model", function() {
             expect(models).to.have.length(2);
 
             done();
+        });
+    });
+
+    xit('foreach learn jszip',function(){
+        var zip = new JSZip();
+        zip.file("Makefile", "...");
+        zip.file("lib/toto.vbs", "...");
+        zip.file("test/toto.vbs", "...");
+        zip.file("test/gif/gif1.bmp", "...");
+        zip.file("test/gif/gif2.bmp", "...");
+
+        zip.forEach(function (relativePath, file){
+            console.log("iterating over", relativePath);
+
         });
     });
 

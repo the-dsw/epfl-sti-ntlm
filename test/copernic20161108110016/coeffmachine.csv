@@ -1,0 +1,7 @@
+2016;11;Id-Classe-Tarif;"Intitulé classe de tarif";Catégorie-Machine;"alpha (A)";"beta (B)";"gamma (C)";"delta (D)";"epsilon (E)";"lambda (MO)";"omega (R)"
+2016;11;2000;"User EPFL";A;1.00;0.00;0.00;0.00;1.00;1.00;1.00
+2016;11;2000;"User EPFL";B;1.00;0.00;0.00;0.00;1.00;1.00;1.00
+2016;11;2100;"User Acad. Ext.";A;1.00;1.00;0.00;0.00;1.00;2.00;2.00
+2016;11;2100;"User Acad. Ext.";B;1.00;1.00;0.00;0.00;2.20;2.00;2.20
+2016;11;2200;"User Entreprise";A;1.00;1.00;1.00;0.00;1.00;3.00;2.00
+2016;11;2200;"User Entreprise";B;1.00;1.00;1.00;0.00;2.80;3.00;2.80
