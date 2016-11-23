@@ -76,6 +76,18 @@ describe('ZIP file /', function(){
     });
 });
 
+describe.only("csv", function () {
+    var csvGold = require("./lib/csvGold.js");
+   it("parses a file", function (done) {
+       csvGold.streamCells("cae.csv")
+           .pipe(require("stream-transform")(function(csvLine) {
+              // console.log(csvLine);
+               return csvLine;
+           },
+           done));
+   })
+});
+
 // Test MongoDB save, list and clear
 var
     dbURI    = 'mongodb://localhost:27017/epfl-testApp',
