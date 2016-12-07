@@ -10,7 +10,7 @@ Q.longStackSupport = true;
 
 describe("tempMongo", function () {
 
-    it("creates a database that you can connect to",function () {
+    it("creates a database that you can connect to", function () {
         return makeTempMongoP().then(function (temp) {
             return MongoClientConnectP(temp.uri());
         }).then(function (db) {
@@ -33,8 +33,10 @@ describe("tempMongo", function () {
         }).then(function (names) {
             expect(names).to.have.length(0);
             return db;
-        });;
+        });
+        ;
     }
+
     it("has no collections upon creation (but it lets you create one)", function () {
         var db;
         return connectToDbExpectNoCollectionsP().then(function (db_) {

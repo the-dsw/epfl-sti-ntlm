@@ -21,8 +21,8 @@ var
 // Success tests
 xdescribe("readBilling", function () {
     var fakeMongo, dbURI, fakeConnection;
-    before(function() {
-        return makeTempMongoP().then(function(fake) {
+    before(function () {
+        return makeTempMongoP().then(function (fake) {
             fakeMongo = fake;
             dbURI = fakeMongo.uri();
             fakeConnection = mongoose.createConnection(dbURI);
