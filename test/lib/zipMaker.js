@@ -1,10 +1,10 @@
-const baseFolder = 'test/copernic20161108110016/';
+
 var
     fs = require('fs'),
     path = require('path'),
-    archiver = require('archiver'),
     JSZip = require("jszip");
 
+const baseFolder = path.normalize('copernic20161108110016/');
 
 module.exports = makeTempZipP_usingJSZip;
 

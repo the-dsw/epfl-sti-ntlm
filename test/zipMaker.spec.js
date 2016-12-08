@@ -1,6 +1,7 @@
-const baseFolder = 'test/copernic20161108110016/';
 var
     chai = require('chai'),
+    path = require('path'),
+    fs = require('fs'),
     expect = chai.expect,
     makeTempZipP = require("./lib/zipMaker.js"),
     iconv = require('iconv-lite'),
@@ -10,7 +11,10 @@ var
     csvGold = require("./lib/csvGold.js");
 
 require("should");
-// chai.use(require('chai-things'));
+require("../lib/q+");
+require("../lib/fs+");
+
+const baseFolder = path.normalize('copernic20161108110016/');
 
 function allFilesInZipAsync(jsZipInstanceOrZipBytes) {
     if (jsZipInstanceOrZipBytes instanceof JSZip) {
@@ -29,7 +33,7 @@ function allFilesInZipAsync(jsZipInstanceOrZipBytes) {
 }
 
 describe("zipMaker", function () {
-    it("has a top level directory", function () {
+    it("it should have a top level directory", function () {
         return makeTempZipP(baseFolder).then(allFilesInZipAsync)
             .then(function (files) {
                 files.should.matchAny(function (file) {
@@ -37,7 +41,7 @@ describe("zipMaker", function () {
                 });
             });
     });
-    it("has a cae.csv", function () {
+    it("it should have a cae.csv", function () {
         return makeTempZipP(baseFolder).then(allFilesInZipAsync)
             .then(function (files) {
                 files.should.matchAny(function (file) {
@@ -45,7 +49,7 @@ describe("zipMaker", function () {
                 });
             });
     });
-    it("has a cae.csv with gold content", function () {
+    it("it should have a cae.csv with gold content", function () {
         return csvGold.allCellsAsync("cae.csv").then(function (cells) {
             return makeTempZipP(baseFolder, {cae: cells})
         })
@@ -58,9 +62,11 @@ describe("zipMaker", function () {
                 var csvContents = iconv.decode(csvContentsBinary, "iso-8859-1");
                 var lines = csvContents.split(/\r\n|\r|\n/);
                 lines.length.should.be.eql(1036);
-                //lines[3].should.be.eql("2016;11;3052;\"1000 - S. Gamper\";218717;EXT-INTEL;user01462;Gamper;\"Stephan (INTEL)\";mach136;\"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off\";\"2016-11-01 07:30:19\";89;0;0;0;user01462;\"Stephan (INTEL) Gamper\";;");
+                lines[3].should.be.eql("2016;11;3052;\"1000 - S. Gamper\";218717;EXT-INTEL;user01462;Gamper;\"Stephan (INTEL)\";mach136;\"Z04 Leybold-Optics LAB600 H - Evaporator Lift-off\";\"2016-11-01 07:30:19\";89;0;0;0;user01462;\"Stephan (INTEL) Gamper\";;");
             })
     });
+
+    it("it should have to write within csv");
 });
 
 
